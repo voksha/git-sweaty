@@ -32498,5 +32498,18 @@
     "start_date_local": "2026-03-12T10:05:19Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 2749.0,
+    "elevation_gain": 6.0,
+    "id": "17697502126",
+    "moving_time": 2747.0,
+    "name": "Evening Walk with Richard & Evan \ud83c\udfd6\ufe0f \ud83d\udd26 \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-12T20:04:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
