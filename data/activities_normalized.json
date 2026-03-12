@@ -32459,5 +32459,44 @@
     "start_date_local": "2026-03-11T10:10:31Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 10393.1,
+    "elevation_gain": 53.0,
+    "id": "17691668906",
+    "moving_time": 3225.0,
+    "name": "Continuum Threshold \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T06:36:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17692273576",
+    "moving_time": 3601.0,
+    "name": "Tighten & Tone with Coach Tom \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-12T08:50:05Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17692562763",
+    "moving_time": 2800.0,
+    "name": "HYROX Foundation (Row) with Coach Tom \ud83d\udea3\ud83c\udffb",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-12T10:05:19Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
