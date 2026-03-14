@@ -32576,5 +32576,57 @@
     "start_date_local": "2026-03-13T17:34:34Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 6546.3,
+    "elevation_gain": 23.0,
+    "id": "17712944825",
+    "moving_time": 2340.0,
+    "name": "Flowerboy \ud83c\udf3a \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T06:12:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 5019.0,
+    "elevation_gain": 26.0,
+    "id": "17713344327",
+    "moving_time": 1767.0,
+    "name": "Orbia Saturday at BareHeat \ud83c\udf34 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T07:22:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17713629477",
+    "moving_time": 2000.0,
+    "name": "Infrared Stretching by Diego at BareHeat Studio \ud83e\udd0e",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-14T08:01:29Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 525.0,
+    "elevation_gain": 0.0,
+    "id": "17714151903",
+    "moving_time": 727.0,
+    "name": "Pool Swim at Obsidian \ud83c\udfca\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-14T09:38:05Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
