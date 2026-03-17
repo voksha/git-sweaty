@@ -32667,5 +32667,57 @@
     "start_date_local": "2026-03-16T18:17:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 5539.0,
+    "elevation_gain": 20.0,
+    "id": "17747894098",
+    "moving_time": 1391.0,
+    "name": "Intervals with Obsidian Fitness \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T06:30:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17748654967",
+    "moving_time": 3693.0,
+    "name": "HYROX Base Builder at Obsidian Fitness \ud83c\udfcb\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-17T07:37:19Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17749115828",
+    "moving_time": 1891.0,
+    "name": "Stationery Bike at Obsidian Fitness \ud83d\udeb4\ud83c\udffb",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T09:25:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 225.0,
+    "elevation_gain": 0.0,
+    "id": "17749297393",
+    "moving_time": 307.0,
+    "name": "Recovery Swim at Obsidian Fitness \ud83c\udfca\ud83c\udffc\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-17T10:18:31Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
