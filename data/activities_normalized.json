@@ -32719,5 +32719,31 @@
     "start_date_local": "2026-03-17T10:18:31Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 1681.0,
+    "elevation_gain": 46.0,
+    "id": "17762111938",
+    "moving_time": 874.0,
+    "name": "HYROX Dice Game at Obsidian Fitness \ud83c\udfb2 \ud83c\udf27",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-18T10:10:12Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 4983.3,
+    "elevation_gain": 38.0,
+    "id": "17767639994",
+    "moving_time": 2014.0,
+    "name": "Run to Ogoh Ogoh \ud83d\udc79 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T18:14:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
