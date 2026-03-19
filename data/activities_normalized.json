@@ -32745,5 +32745,44 @@
     "start_date_local": "2026-03-18T18:14:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 5034.5,
+    "elevation_gain": 42.0,
+    "id": "17768903710",
+    "moving_time": 2802.0,
+    "name": "Walk/Jog back from Ogoh Ogoh \ud83d\udc7a \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-19T00:15:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17775963923",
+    "moving_time": 3041.0,
+    "name": "Full Body Workout \ud83d\ude4c\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-19T15:30:07Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17779060058",
+    "moving_time": 1838.0,
+    "name": "Meditation \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-19T21:01:51Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
