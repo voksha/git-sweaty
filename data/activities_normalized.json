@@ -32700,7 +32700,7 @@
     "elevation_gain": 0.0,
     "id": "17749115828",
     "moving_time": 1891.0,
-    "name": "Stationery Bike at Obsidian Fitness \ud83d\udeb4\ud83c\udffb",
+    "name": "Stationary Bike at Obsidian Fitness \ud83d\udeb4\ud83c\udffb",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-03-17T09:25:51Z",
@@ -32783,6 +32783,58 @@
     "raw_type": "Yoga",
     "start_date_local": "2026-03-19T21:01:51Z",
     "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 6059.0,
+    "elevation_gain": 44.0,
+    "id": "17785738774",
+    "moving_time": 2238.0,
+    "name": "Starting the new year strong with Orbia at Atelier \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T07:21:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17786937703",
+    "moving_time": 1815.0,
+    "name": "Stationary Bike at Obsidian Fitness \ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-20T11:20:58Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17787037153",
+    "moving_time": 1852.0,
+    "name": "HYROX Open Gym at Obsidian \ud83e\udd19\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-20T11:51:48Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17787285722",
+    "moving_time": 1236.0,
+    "name": "HYROX Cardio Round 2 \ud83d\udea3\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-20T13:24:54Z",
+    "type": "Workout",
     "year": 2026
   }
 ]
