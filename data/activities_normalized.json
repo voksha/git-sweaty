@@ -32836,5 +32836,57 @@
     "start_date_local": "2026-03-20T13:24:54Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 6544.6,
+    "elevation_gain": 24.0,
+    "id": "17796416314",
+    "moving_time": 2137.0,
+    "name": "Flowerboy \ud83c\udf3a \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T06:09:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 5020.0,
+    "elevation_gain": 28.0,
+    "id": "17796869359",
+    "moving_time": 1991.0,
+    "name": "Recovery with Orbia at BareHeat \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T07:18:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17797146258",
+    "moving_time": 1828.0,
+    "name": "Infrared Stretching at BareHeat Studio led by Diego \u2604\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-21T08:04:39Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 3398.0,
+    "elevation_gain": 40.0,
+    "id": "17798147761",
+    "moving_time": 1895.0,
+    "name": "HYROX Workout at Power+Revive \u26c5",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-21T11:00:38Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
