@@ -32888,5 +32888,18 @@
     "start_date_local": "2026-03-21T11:00:38Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 5044.7,
+    "elevation_gain": 28.0,
+    "id": "17809629740",
+    "moving_time": 2087.0,
+    "name": "40s intervals with Orbia at Luc Soulful \ud83c\udf70 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T07:30:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
