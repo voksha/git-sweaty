@@ -17716,6 +17716,41 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 9,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 13,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 16,
+      "subtype": "Padel",
+      "type": "Padel",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37061,6 +37096,17 @@
           "moving_time": 4924.0
         }
       },
+      "Padel": {
+        "2026-03-23": {
+          "activity_ids": [
+            "17825156864"
+          ],
+          "count": 1,
+          "distance": 194.8,
+          "elevation_gain": 2.2,
+          "moving_time": 315.0
+        }
+      },
       "Ride": {
         "2026-02-16": {
           "activity_ids": [
@@ -37593,6 +37639,16 @@
           "distance": 5044.7,
           "elevation_gain": 28.0,
           "moving_time": 2087.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17822421849",
+            "17825898577"
+          ],
+          "count": 2,
+          "distance": 11315.0,
+          "elevation_gain": 84.0,
+          "moving_time": 3683.0
         }
       },
       "StairStepper": {
@@ -37660,6 +37716,15 @@
           "distance": 225.0,
           "elevation_gain": 0.0,
           "moving_time": 307.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17823321829"
+          ],
+          "count": 1,
+          "distance": 565.0,
+          "elevation_gain": 5.7,
+          "moving_time": 1340.0
         }
       },
       "Walk": {
@@ -38294,6 +38359,15 @@
           "distance": 3398.0,
           "elevation_gain": 40.0,
           "moving_time": 3723.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17824068781"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2721.0
         }
       },
       "Yoga": {
@@ -38327,7 +38401,7 @@
       }
     }
   },
-  "generated_at": "2026-03-22T15:26:32.524177+00:00",
+  "generated_at": "2026-03-23T15:59:50.070741+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
@@ -38363,6 +38437,10 @@
     "Kayaking": {
       "accent": "#00f5d4",
       "label": "Kayaking"
+    },
+    "Padel": {
+      "accent": "#ffbe0b",
+      "label": "Padel"
     },
     "Pilates": {
       "accent": "#fee440",
@@ -38463,7 +38541,8 @@
     "Walk",
     "WeightTraining",
     "Workout",
-    "Yoga"
+    "Yoga",
+    "Padel"
   ],
   "units": {
     "distance": "mi",

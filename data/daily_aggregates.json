@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T15:26:32.492725+00:00",
+  "generated_at": "2026-03-23T15:59:50.038494+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19343,6 +19343,17 @@
           "moving_time": 4924.0
         }
       },
+      "Padel": {
+        "2026-03-23": {
+          "activity_ids": [
+            "17825156864"
+          ],
+          "count": 1,
+          "distance": 194.8,
+          "elevation_gain": 2.2,
+          "moving_time": 315.0
+        }
+      },
       "Ride": {
         "2026-02-16": {
           "activity_ids": [
@@ -19875,6 +19886,16 @@
           "distance": 5044.7,
           "elevation_gain": 28.0,
           "moving_time": 2087.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17822421849",
+            "17825898577"
+          ],
+          "count": 2,
+          "distance": 11315.0,
+          "elevation_gain": 84.0,
+          "moving_time": 3683.0
         }
       },
       "StairStepper": {
@@ -19942,6 +19963,15 @@
           "distance": 225.0,
           "elevation_gain": 0.0,
           "moving_time": 307.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17823321829"
+          ],
+          "count": 1,
+          "distance": 565.0,
+          "elevation_gain": 5.7,
+          "moving_time": 1340.0
         }
       },
       "Walk": {
@@ -20576,6 +20606,15 @@
           "distance": 3398.0,
           "elevation_gain": 40.0,
           "moving_time": 3723.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17824068781"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2721.0
         }
       },
       "Yoga": {

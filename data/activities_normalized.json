@@ -32901,5 +32901,70 @@
     "start_date_local": "2026-03-22T07:30:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 6097.0,
+    "elevation_gain": 37.0,
+    "id": "17822421849",
+    "moving_time": 1950.0,
+    "name": "Nomas at Runamuk \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-23T06:41:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 565.0,
+    "elevation_gain": 5.7,
+    "id": "17823321829",
+    "moving_time": 1340.0,
+    "name": "First Open Water Swim/Wave Surfing in Bali \ud83c\udfca\ud83c\udffc \u2600\ufe0f \u26c5",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-23T09:48:48Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17824068781",
+    "moving_time": 2721.0,
+    "name": "Hybrid Fitness at Obsidian \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-23T13:48:28Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 194.8,
+    "elevation_gain": 2.2,
+    "id": "17825156864",
+    "moving_time": 315.0,
+    "name": "First time Padel at Fifteen Canggu \u26c5",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-03-23T16:07:13Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 5218.0,
+    "elevation_gain": 47.0,
+    "id": "17825898577",
+    "moving_time": 1733.0,
+    "name": "Orbia Mondays at Atelier \ud83e\udea9 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-23T18:21:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
