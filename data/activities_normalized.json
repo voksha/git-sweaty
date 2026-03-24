@@ -32966,5 +32966,57 @@
     "start_date_local": "2026-03-23T18:21:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 6506.8,
+    "elevation_gain": 35.0,
+    "id": "17833829180",
+    "moving_time": 2136.0,
+    "name": "Rise Run Bali X The Goat Father \ud83d\udc10 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T06:20:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17835202665",
+    "moving_time": 3050.0,
+    "name": "Tighten & Tone with Coach Tom at Obsidian Fitness \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-24T08:53:02Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17836890615",
+    "moving_time": 1807.0,
+    "name": "Hybrid Fitness at Obsidian \ud83d\udea3\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-24T15:16:29Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 175.0,
+    "elevation_gain": 0.0,
+    "id": "17837115554",
+    "moving_time": 243.0,
+    "name": "Afternoon Swim at Obsidian \ud83c\udfca\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-24T15:49:22Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
