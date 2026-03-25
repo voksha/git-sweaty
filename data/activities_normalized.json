@@ -33018,5 +33018,44 @@
     "start_date_local": "2026-03-24T15:49:22Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 5568.3,
+    "elevation_gain": 32.0,
+    "id": "17847000612",
+    "moving_time": 1799.0,
+    "name": "Rise Run Bali X Body Factory Bali \ud83e\udda9 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T06:24:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 1715.0,
+    "elevation_gain": 30.0,
+    "id": "17848897423",
+    "moving_time": 772.0,
+    "name": "HYROX Dice Game at Obsidian \ud83c\udfb2 \u26c5",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-25T10:11:43Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 200.0,
+    "elevation_gain": 0.0,
+    "id": "17849255085",
+    "moving_time": 374.0,
+    "name": "Recovery Swim at Obsidian \ud83c\udfca\ud83c\udffc\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-25T11:12:47Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
