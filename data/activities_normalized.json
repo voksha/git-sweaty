@@ -33070,5 +33070,31 @@
     "start_date_local": "2026-03-26T07:21:40Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 6136.0,
+    "elevation_gain": 90.0,
+    "id": "17869157324",
+    "moving_time": 1980.0,
+    "name": "Bondi Beach with the Sydney Run Club \ud83c\udde6\ud83c\uddfa \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T05:52:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 701.6,
+    "elevation_gain": 14.0,
+    "id": "17874009685",
+    "moving_time": 639.0,
+    "name": "Luna Park Walk \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-27T18:49:23Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
