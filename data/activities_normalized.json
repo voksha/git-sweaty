@@ -33096,5 +33096,83 @@
     "start_date_local": "2026-03-27T18:49:23Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3589.4,
+    "elevation_gain": 8.0,
+    "id": "17880702619",
+    "moving_time": 759.0,
+    "name": "Lime Bike Ride \u26c5",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-03-28T07:10:10Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 6574.5,
+    "elevation_gain": 33.0,
+    "id": "17881097723",
+    "moving_time": 1955.0,
+    "name": "Centennial Pretzel \ud83e\udd68 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T07:42:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3334.8,
+    "elevation_gain": 38.0,
+    "id": "17881777596",
+    "moving_time": 2840.0,
+    "name": "Me and my baguette \ud83e\udd56 \u26c5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T08:34:31Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 7012.8,
+    "elevation_gain": 55.0,
+    "id": "17882255573",
+    "moving_time": 2339.0,
+    "name": "Opera View with Jule \u2600\ufe0f \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T09:54:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3415.6,
+    "elevation_gain": 52.0,
+    "id": "17883265190",
+    "moving_time": 2474.0,
+    "name": "Downtown Sydney Walk & Shop \ud83d\udecd\ufe0f \u26c5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T11:15:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 4687.6,
+    "elevation_gain": 52.0,
+    "id": "17884822169",
+    "moving_time": 3957.0,
+    "name": "Manly Beach to Shelly Beach Walk \ud83c\udf0a \u26c5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T16:23:37Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

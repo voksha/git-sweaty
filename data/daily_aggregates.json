@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T15:53:30.609428+00:00",
+  "generated_at": "2026-03-28T15:30:37.702982+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19330,6 +19330,17 @@
       }
     },
     "2026": {
+      "EBikeRide": {
+        "2026-03-28": {
+          "activity_ids": [
+            "17880702619"
+          ],
+          "count": 1,
+          "distance": 3589.4,
+          "elevation_gain": 8.0,
+          "moving_time": 759.0
+        }
+      },
       "Hike": {
         "2026-02-19": {
           "activity_ids": [
@@ -19923,6 +19934,16 @@
           "distance": 6136.0,
           "elevation_gain": 90.0,
           "moving_time": 1980.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17881097723",
+            "17882255573"
+          ],
+          "count": 2,
+          "distance": 13587.3,
+          "elevation_gain": 88.0,
+          "moving_time": 4294.0
         }
       },
       "StairStepper": {
@@ -20187,6 +20208,17 @@
           "distance": 701.6,
           "elevation_gain": 14.0,
           "moving_time": 639.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17881777596",
+            "17883265190",
+            "17884822169"
+          ],
+          "count": 3,
+          "distance": 11438.0,
+          "elevation_gain": 142.0,
+          "moving_time": 9271.0
         }
       },
       "WeightTraining": {
