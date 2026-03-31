@@ -33252,5 +33252,31 @@
     "start_date_local": "2026-03-30T18:19:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 8309.0,
+    "elevation_gain": 74.0,
+    "id": "17918556599",
+    "moving_time": 2823.0,
+    "name": "Rise Run Bali X The Goat Father \ud83d\udc10 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T06:20:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17919702031",
+    "moving_time": 3140.0,
+    "name": "Tighten & Tone with Coach Millie \ud83d\ude4c\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-31T08:52:02Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
