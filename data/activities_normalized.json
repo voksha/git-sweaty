@@ -33278,5 +33278,44 @@
     "start_date_local": "2026-03-31T08:52:02Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 10029.2,
+    "elevation_gain": 38.0,
+    "id": "17931458826",
+    "moving_time": 3665.0,
+    "name": "Flowerboy \ud83c\udf3a \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T06:12:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17934924817",
+    "moving_time": 3013.0,
+    "name": "Tighten & Tone with Coach Millie at Obsidian \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-01T16:22:55Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17935197470",
+    "moving_time": 1202.0,
+    "name": "Recovery on Indoor Bike \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T17:27:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
