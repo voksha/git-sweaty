@@ -33382,5 +33382,44 @@
     "start_date_local": "2026-04-02T17:00:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 5099.0,
+    "elevation_gain": 36.0,
+    "id": "17956123727",
+    "moving_time": 1610.0,
+    "name": "Orbia Friday at Atelier Sandwich \ud83d\udc3e \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T07:20:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17956791631",
+    "moving_time": 2036.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-03T09:00:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17957015750",
+    "moving_time": 1813.0,
+    "name": "Dumbbell Workout \ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-03T09:44:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
