@@ -33389,7 +33389,7 @@
     "elevation_gain": 36.0,
     "id": "17956123727",
     "moving_time": 1610.0,
-    "name": "Orbia Friday at Atelier Sandwich \ud83d\udc3e \u26c5",
+    "name": "Orbia Friday X Atelier Sandwich \ud83d\udc3e \u26c5",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-03T07:20:11Z",
@@ -33420,6 +33420,32 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-04-03T09:44:00Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17969381035",
+    "moving_time": 3654.0,
+    "name": "Core Workout at Obsidian \ud83d\udda4",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-04T09:50:59Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 3633.1,
+    "elevation_gain": 22.0,
+    "id": "17969690577",
+    "moving_time": 1841.0,
+    "name": "HYROX Partner Sim with Abbie at Power+Revive \ud83d\ude0e \u26c5",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-04T11:10:24Z",
+    "type": "Workout",
     "year": 2026
   }
 ]
