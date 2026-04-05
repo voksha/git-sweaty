@@ -33447,5 +33447,31 @@
     "start_date_local": "2026-04-04T11:10:24Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 33003.9,
+    "elevation_gain": 206.0,
+    "id": "17981482996",
+    "moving_time": 12236.0,
+    "name": "Morning Aura / Long Run with Anna, Brennan & Runamuk \ud83c\udf1f \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T04:41:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 1016.0,
+    "elevation_gain": 6.0,
+    "id": "17983089855",
+    "moving_time": 964.0,
+    "name": "Beach Walk with Jule \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T14:45:56Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
