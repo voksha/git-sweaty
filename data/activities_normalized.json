@@ -33525,5 +33525,44 @@
     "start_date_local": "2026-04-07T09:51:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 10021.9,
+    "elevation_gain": 38.0,
+    "id": "18020402005",
+    "moving_time": 3793.0,
+    "name": "Flowerboy \ud83c\udf38 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T06:11:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 1667.8,
+    "elevation_gain": 70.0,
+    "id": "18021753872",
+    "moving_time": 749.0,
+    "name": "HYROX Dice Game at Obsidian \ud83c\udfb2\ud83c\udfb2 \u26c5",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-08T10:11:35Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18023231549",
+    "moving_time": 3965.0,
+    "name": "Indoor Bike \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-08T14:27:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
