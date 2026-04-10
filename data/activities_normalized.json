@@ -33603,5 +33603,31 @@
     "start_date_local": "2026-04-09T17:56:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18049917491",
+    "moving_time": 3922.0,
+    "name": "Core Strength Routine \ud83d\udc4a\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-10T13:09:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18050101725",
+    "moving_time": 1803.0,
+    "name": "Recovery Ride at Obsidian \ud83d\udda4",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T14:24:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
