@@ -33642,5 +33642,18 @@
     "start_date_local": "2026-04-11T06:10:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 42227.0,
+    "elevation_gain": 288.0,
+    "id": "18073057250",
+    "moving_time": 16683.0,
+    "name": "Ten toes in when we standing on business! \ud83d\udc15 \ud83d\udc4a\ud83c\udffc \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T03:24:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
