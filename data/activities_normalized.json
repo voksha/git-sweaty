@@ -33655,5 +33655,57 @@
     "start_date_local": "2026-04-12T03:24:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 6496.7,
+    "elevation_gain": 50.0,
+    "id": "18085878802",
+    "moving_time": 2485.0,
+    "name": "Nomas X Runamuk \ud83e\udd86 \ud83c\udf27",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T06:43:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18086566967",
+    "moving_time": 3246.0,
+    "name": "Booty Class with Coach Nathan at Obsidian \u2714\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-13T08:53:31Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18088322859",
+    "moving_time": 4095.0,
+    "name": "HYROX Workout \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-13T15:17:27Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 400.0,
+    "elevation_gain": 0.0,
+    "id": "18088929837",
+    "moving_time": 550.0,
+    "name": "Recovery Swim \ud83c\udfca",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-13T17:14:02Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
