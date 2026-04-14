@@ -33707,5 +33707,18 @@
     "start_date_local": "2026-04-13T17:14:02Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 8082.8,
+    "elevation_gain": 42.0,
+    "id": "18102685002",
+    "moving_time": 3449.0,
+    "name": "The run to plan more runs! \ud83d\ude0e \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T17:51:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
