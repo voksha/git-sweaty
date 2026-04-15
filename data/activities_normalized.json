@@ -33720,5 +33720,44 @@
     "start_date_local": "2026-04-14T17:51:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 6464.7,
+    "elevation_gain": 240.0,
+    "id": "18113420927",
+    "moving_time": 6415.0,
+    "name": "Sumampan, Poh Gading and Uma Anyar Waterfalls \u2600\ufe0f\ud83c\udf34\u26c5",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-15T07:29:15Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18116363787",
+    "moving_time": 5830.0,
+    "name": "HYROX Wednesday Workout \u2604\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-15T17:03:53Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18116646542",
+    "moving_time": 1220.0,
+    "name": "Recovery bikeERG \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T18:42:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
