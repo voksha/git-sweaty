@@ -33759,5 +33759,31 @@
     "start_date_local": "2026-04-15T18:42:14Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18126927112",
+    "moving_time": 4638.0,
+    "name": "HYROX Foundation Class by Coach Tom \ud83c\udfcb\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-16T10:00:20Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 3500.0,
+    "elevation_gain": 8.0,
+    "id": "18131146338",
+    "moving_time": 1428.0,
+    "name": "Carb loading, courtesy of Anna \ud83e\udd5e \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T18:41:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
