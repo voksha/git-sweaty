@@ -33785,5 +33785,18 @@
     "start_date_local": "2026-04-16T18:41:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18142262501",
+    "moving_time": 2267.0,
+    "name": "Stretching & Flexibility \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-17T13:45:37Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
