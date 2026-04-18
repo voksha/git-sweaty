@@ -33798,5 +33798,44 @@
     "start_date_local": "2026-04-17T13:45:37Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 6074.0,
+    "elevation_gain": 37.0,
+    "id": "18150025378",
+    "moving_time": 1500.0,
+    "name": "Let him cook! \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T05:18:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18150476718",
+    "moving_time": 1368.0,
+    "name": "Stretching \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-18T06:16:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18152280762",
+    "moving_time": 1805.0,
+    "name": "Assault Bike \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T10:05:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
