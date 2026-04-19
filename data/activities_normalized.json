@@ -33837,5 +33837,18 @@
     "start_date_local": "2026-04-18T10:05:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 12943.2,
+    "elevation_gain": 74.0,
+    "id": "18164700207",
+    "moving_time": 3818.0,
+    "name": "Open House X Entourage Bali\ud83c\udf34 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T06:46:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
