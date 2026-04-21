@@ -33863,5 +33863,18 @@
     "start_date_local": "2026-04-20T10:40:02Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 3387.7,
+    "elevation_gain": 0.0,
+    "id": "18190692008",
+    "moving_time": 793.0,
+    "name": "CHASE:002 \ud83d\udee4\ufe0f \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T06:45:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
