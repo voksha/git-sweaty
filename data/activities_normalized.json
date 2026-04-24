@@ -33897,10 +33897,10 @@
     "id": "18224555674",
     "moving_time": 2711.0,
     "name": "Seat Yoga \ud83d\udcba",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
     "start_date_local": "2026-04-23T10:32:45Z",
-    "type": "Workout",
+    "type": "Yoga",
     "year": 2026
   },
   {
@@ -33913,6 +33913,32 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-04-23T15:05:32Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 2193.7,
+    "elevation_gain": 7.0,
+    "id": "18228563159",
+    "moving_time": 651.0,
+    "name": "E-scooter Ride to Hamburg-Alstadt \u2601\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T19:05:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 1854.7,
+    "elevation_gain": 65.0,
+    "id": "18229687372",
+    "moving_time": 1365.0,
+    "name": "Walk back from Europa Passage to IntercityHotel \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-23T20:01:50Z",
     "type": "Walk",
     "year": 2026
   }
