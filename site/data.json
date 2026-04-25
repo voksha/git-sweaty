@@ -18276,6 +18276,62 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 13,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 7,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 10,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 11,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 14,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37751,6 +37807,15 @@
           "distance": 2193.7,
           "elevation_gain": 7.0,
           "moving_time": 651.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18248423578"
+          ],
+          "count": 1,
+          "distance": 2044.8,
+          "elevation_gain": 11.0,
+          "moving_time": 431.0
         }
       },
       "Rowing": {
@@ -38456,6 +38521,15 @@
           "distance": 3387.7,
           "elevation_gain": 0.0,
           "moving_time": 793.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18246877848"
+          ],
+          "count": 1,
+          "distance": 5160.0,
+          "elevation_gain": 35.0,
+          "moving_time": 1694.0
         }
       },
       "StairStepper": {
@@ -38796,6 +38870,28 @@
           "distance": 4246.6,
           "elevation_gain": 107.0,
           "moving_time": 3266.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18241682625",
+            "18241682688",
+            "18241682999"
+          ],
+          "count": 3,
+          "distance": 5280.6,
+          "elevation_gain": 68.0,
+          "moving_time": 4332.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18248301759",
+            "18249528750",
+            "18251826127"
+          ],
+          "count": 3,
+          "distance": 3143.2,
+          "elevation_gain": 72.0,
+          "moving_time": 2493.0
         }
       },
       "WeightTraining": {
@@ -39515,7 +39611,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T16:04:29.110224+00:00",
+  "generated_at": "2026-04-25T15:39:00.095667+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
