@@ -34045,5 +34045,44 @@
     "start_date_local": "2026-04-25T14:07:44Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 508.0,
+    "elevation_gain": 11.0,
+    "id": "18263131598",
+    "moving_time": 364.0,
+    "name": "Morning Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-26T08:18:27Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 509.0,
+    "elevation_gain": 5.0,
+    "id": "18263131613",
+    "moving_time": 438.0,
+    "name": "Lunch Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-26T12:04:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 42309.0,
+    "elevation_gain": 193.0,
+    "id": "18263132389",
+    "moving_time": 11112.0,
+    "name": "Running Wild at the 40th Hamburg Marathon \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T08:38:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
