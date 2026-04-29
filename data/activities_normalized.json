@@ -34162,5 +34162,18 @@
     "start_date_local": "2026-04-28T13:14:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 3305.0,
+    "elevation_gain": 45.0,
+    "id": "18304117362",
+    "moving_time": 2461.0,
+    "name": "elbgold, ESN, Top4Running, Sushi Supply dann Hamburg Hbf \u2615\ufe0f\ud83c\udfcb\ud83c\udffb\u200d\u2642\ufe0f\ud83d\udc5f\ud83c\udf63\ud83d\ude82\ud83d\ude85 \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-29T09:42:25Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
