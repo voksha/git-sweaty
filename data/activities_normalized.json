@@ -34175,5 +34175,31 @@
     "start_date_local": "2026-04-29T09:42:25Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18319943019",
+    "moving_time": 2704.0,
+    "name": "Core Workout \ud83d\udc4a\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-30T16:00:04Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 5045.2,
+    "elevation_gain": 54.0,
+    "id": "18320486661",
+    "moving_time": 1727.0,
+    "name": "Aalen Tiki Taka \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T17:05:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
