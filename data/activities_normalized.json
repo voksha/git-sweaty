@@ -34305,5 +34305,31 @@
     "start_date_local": "2026-05-03T15:35:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 1073.9,
+    "elevation_gain": 0.0,
+    "id": "18369272173",
+    "moving_time": 797.0,
+    "name": "Walk to TopFit Aalen \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T11:25:21Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18369866693",
+    "moving_time": 2599.0,
+    "name": "Upper Body and Core \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-04T11:50:24Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
