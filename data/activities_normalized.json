@@ -34331,5 +34331,18 @@
     "start_date_local": "2026-05-04T11:50:24Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 3239.2,
+    "elevation_gain": 44.0,
+    "id": "18387088645",
+    "moving_time": 1039.0,
+    "name": "Run to Aalen Uni \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T17:41:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
