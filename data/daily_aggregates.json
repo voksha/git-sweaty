@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T16:24:04.468842+00:00",
+  "generated_at": "2026-05-06T16:27:06.511037+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19491,6 +19491,15 @@
           "distance": 2044.8,
           "elevation_gain": 11.0,
           "moving_time": 431.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18397426080"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3755.0
         }
       },
       "Rowing": {
@@ -20244,12 +20253,14 @@
         },
         "2026-05-05": {
           "activity_ids": [
-            "18387088645"
+            "18387088645",
+            "18389136043",
+            "18389400674"
           ],
-          "count": 1,
-          "distance": 3239.2,
-          "elevation_gain": 44.0,
-          "moving_time": 1039.0
+          "count": 3,
+          "distance": 12302.800000000001,
+          "elevation_gain": 97.0,
+          "moving_time": 3405.0
         }
       },
       "StairStepper": {
@@ -20707,6 +20718,15 @@
           "distance": 1073.9,
           "elevation_gain": 0.0,
           "moving_time": 797.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18398933176"
+          ],
+          "count": 1,
+          "distance": 1016.0,
+          "elevation_gain": 10.0,
+          "moving_time": 790.0
         }
       },
       "WeightTraining": {
@@ -21420,6 +21440,25 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2599.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18387977312"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2205.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18397426072",
+            "18398698024"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4418.0
         }
       },
       "Yoga": {
