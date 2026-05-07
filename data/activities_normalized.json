@@ -34435,5 +34435,31 @@
     "start_date_local": "2026-05-06T14:56:17Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18403428826",
+    "moving_time": 3673.0,
+    "name": "Fitness First Stuttgart Roteb\u00fchl \ud83d\udc4a\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-06T20:02:31Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 21168.0,
+    "elevation_gain": 347.0,
+    "id": "18412440458",
+    "moving_time": 8305.0,
+    "name": "Stuttgart Trails und K\u00f6nigstra\u00dfe \ud83e\udda9\ud83d\udc10\ud83e\udd99 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-07T12:43:13Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
