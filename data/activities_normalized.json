@@ -34461,5 +34461,70 @@
     "start_date_local": "2026-05-07T12:43:13Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 2605.2,
+    "elevation_gain": 29.0,
+    "id": "18417034166",
+    "moving_time": 1771.0,
+    "name": "Walk to \u00c0RO Stuttgart Bowls and then Fitness First Hauptst\u00e4tter Stra\u00dfe \ud83e\udd57 \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-07T20:40:51Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18417632465",
+    "moving_time": 3846.0,
+    "name": "Fitness First Stuttgart Hauptst\u00e4tter Stra\u00dfe \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-07T22:02:51Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 1209.5,
+    "elevation_gain": 12.0,
+    "id": "18418088236",
+    "moving_time": 282.0,
+    "name": "E-scooter Ride \u2601\ufe0f",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-07T23:57:27Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 2550.0,
+    "elevation_gain": 34.0,
+    "id": "18426280281",
+    "moving_time": 1877.0,
+    "name": "beets&roots, xoxo matcha then Fitness First \ud83e\udd57 \ud83c\udf75 \ud83d\udcaa\ud83c\udffd \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-08T13:01:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18427006437",
+    "moving_time": 3612.0,
+    "name": "Back at Fitness First Stuttgart Roteb\u00fchl \ud83d\ude0c",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-08T16:48:09Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
