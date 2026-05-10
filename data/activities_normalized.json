@@ -34591,5 +34591,18 @@
     "start_date_local": "2026-05-09T11:43:34Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 1991.4,
+    "elevation_gain": 31.0,
+    "id": "18441338650",
+    "moving_time": 1557.0,
+    "name": "Stuttgart Walk to \u00c0RO Salat Bowl \ud83e\udd57 \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-09T14:18:38Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
