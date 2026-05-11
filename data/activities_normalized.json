@@ -34604,5 +34604,31 @@
     "start_date_local": "2026-05-09T14:18:38Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 72757.0,
+    "elevation_gain": 627.0,
+    "id": "18456229969",
+    "moving_time": 29989.0,
+    "name": "Running until I start hallucinating \ud83d\udc7b \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T10:45:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18465217165",
+    "moving_time": 3037.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T17:00:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
