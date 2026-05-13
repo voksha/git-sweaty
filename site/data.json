@@ -18675,6 +18675,34 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 20,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 21,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 9,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38195,6 +38223,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3037.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18481737086"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1914.0
         }
       },
       "Rowing": {
@@ -38974,6 +39011,15 @@
           "distance": 72757.0,
           "elevation_gain": 627.0,
           "moving_time": 29989.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18480848267"
+          ],
+          "count": 1,
+          "distance": 10398.0,
+          "elevation_gain": 129.0,
+          "moving_time": 3739.0
         }
       },
       "StairStepper": {
@@ -40267,6 +40313,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5478.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18482165837"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1929.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18487340847"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1460.0
         }
       },
       "Yoga": {
@@ -40309,7 +40373,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:10:12.320363+00:00",
+  "generated_at": "2026-05-13T17:16:27.132516+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
