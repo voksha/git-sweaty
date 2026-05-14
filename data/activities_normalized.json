@@ -34734,5 +34734,31 @@
     "start_date_local": "2026-05-13T09:15:13Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 10176.3,
+    "elevation_gain": 32.0,
+    "id": "18499278853",
+    "moving_time": 2845.0,
+    "name": "CT Coffee Run / Fartlek \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T06:03:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 3405.2,
+    "elevation_gain": 20.0,
+    "id": "18505762967",
+    "moving_time": 2739.0,
+    "name": "Afternoon Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-14T13:59:04Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
