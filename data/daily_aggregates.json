@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T17:00:48.661899+00:00",
+  "generated_at": "2026-05-15T16:51:22.973168+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19527,6 +19527,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1914.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18517775909"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1202.0
         }
       },
       "Rowing": {
@@ -20324,6 +20333,15 @@
           "distance": 10176.3,
           "elevation_gain": 32.0,
           "moving_time": 2845.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18512404776"
+          ],
+          "count": 1,
+          "distance": 6036.4,
+          "elevation_gain": 19.0,
+          "moving_time": 2165.0
         }
       },
       "StairStepper": {
@@ -20847,12 +20865,22 @@
         },
         "2026-05-14": {
           "activity_ids": [
-            "18505762967"
+            "18505762967",
+            "18507711860"
+          ],
+          "count": 2,
+          "distance": 5424.2,
+          "elevation_gain": 91.0,
+          "moving_time": 4180.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18517548207"
           ],
           "count": 1,
-          "distance": 3405.2,
-          "elevation_gain": 20.0,
-          "moving_time": 2739.0
+          "distance": 3538.2,
+          "elevation_gain": 24.0,
+          "moving_time": 2614.0
         }
       },
       "WeightTraining": {
@@ -21644,6 +21672,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1460.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18507105789"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5420.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18518600597"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3718.0
         }
       },
       "Yoga": {
