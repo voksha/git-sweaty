@@ -34838,5 +34838,44 @@
     "start_date_local": "2026-05-15T17:10:36Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 1759.2,
+    "elevation_gain": 64.0,
+    "id": "18519674854",
+    "moving_time": 1302.0,
+    "name": "Evening Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-15T18:16:05Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5015.5,
+    "elevation_gain": 12.0,
+    "id": "18526208057",
+    "moving_time": 1295.0,
+    "name": "Green Point Parkrun \ud83c\udfc1 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T08:00:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5033.6,
+    "elevation_gain": 126.0,
+    "id": "18526208114",
+    "moving_time": 3605.0,
+    "name": "Sea Point Morning Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-16T09:25:15Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
