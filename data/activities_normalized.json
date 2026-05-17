@@ -34877,5 +34877,44 @@
     "start_date_local": "2026-05-16T09:25:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18534067366",
+    "moving_time": 4215.0,
+    "name": "Hybrid Workout at SWEAT1000 \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-16T17:47:32Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 22233.9,
+    "elevation_gain": 61.0,
+    "id": "18537816552",
+    "moving_time": 7428.0,
+    "name": "Fullsend Running \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T06:21:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 3247.5,
+    "elevation_gain": 32.0,
+    "id": "18541085714",
+    "moving_time": 2962.0,
+    "name": "Morning Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-17T10:55:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
