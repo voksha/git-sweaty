@@ -34968,5 +34968,70 @@
     "start_date_local": "2026-05-18T18:06:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18563776254",
+    "moving_time": 1828.0,
+    "name": "Hybrid Cardio \ud83d\udea3\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-19T07:33:42Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18563776257",
+    "moving_time": 3870.0,
+    "name": "Core Workout \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T06:27:10Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18564349869",
+    "moving_time": 4385.0,
+    "name": "Upper Body Strength with Andrew Connor \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T08:17:51Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 3234.8,
+    "elevation_gain": 45.0,
+    "id": "18564702880",
+    "moving_time": 2599.0,
+    "name": "Walk back from Horizen Gym \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-19T09:35:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 3426.2,
+    "elevation_gain": 4.0,
+    "id": "18570939921",
+    "moving_time": 977.0,
+    "name": "Evening Run \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T18:40:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

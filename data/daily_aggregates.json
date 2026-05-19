@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T17:29:23.206425+00:00",
+  "generated_at": "2026-05-19T17:37:56.783481+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -20369,6 +20369,15 @@
           "distance": 5065.0,
           "elevation_gain": 7.0,
           "moving_time": 1985.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18570939921"
+          ],
+          "count": 1,
+          "distance": 3426.2,
+          "elevation_gain": 4.0,
+          "moving_time": 977.0
         }
       },
       "StairStepper": {
@@ -20937,6 +20946,15 @@
           "distance": 5867.0,
           "elevation_gain": 40.0,
           "moving_time": 4356.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18564702880"
+          ],
+          "count": 1,
+          "distance": 3234.8,
+          "elevation_gain": 45.0,
+          "moving_time": 2599.0
         }
       },
       "WeightTraining": {
@@ -20984,6 +21002,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1813.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18563776257",
+            "18564349869"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8255.0
         }
       },
       "Workout": {
@@ -21764,6 +21792,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3641.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18563776254"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1828.0
         }
       },
       "Yoga": {
