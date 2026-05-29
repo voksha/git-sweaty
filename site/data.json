@@ -18983,6 +18983,20 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 22,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 17,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40008,6 +40022,15 @@
           "distance": 1061.9,
           "elevation_gain": 27.0,
           "moving_time": 876.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18704812497"
+          ],
+          "count": 1,
+          "distance": 1744.0,
+          "elevation_gain": 29.0,
+          "moving_time": 1236.0
         }
       },
       "WeightTraining": {
@@ -40899,6 +40922,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7975.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18694749763"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3690.0
         }
       },
       "Yoga": {
@@ -40941,7 +40973,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T18:11:24.455276+00:00",
+  "generated_at": "2026-05-29T18:12:16.783241+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",

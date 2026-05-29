@@ -35254,5 +35254,31 @@
     "start_date_local": "2026-05-27T19:30:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18694749763",
+    "moving_time": 3690.0,
+    "name": "Core Strength Routine \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-28T22:30:16Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 1744.0,
+    "elevation_gain": 29.0,
+    "id": "18704812497",
+    "moving_time": 1236.0,
+    "name": "Dinner Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-29T17:54:51Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
