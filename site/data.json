@@ -18997,6 +18997,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 14,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38535,6 +38542,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1202.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18715783226"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3772.0
         }
       },
       "Rowing": {
@@ -40973,7 +40989,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:12:16.783241+00:00",
+  "generated_at": "2026-05-30T16:04:20.230783+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
