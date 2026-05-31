@@ -35293,5 +35293,31 @@
     "start_date_local": "2026-05-30T14:40:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18718114360",
+    "moving_time": 5477.0,
+    "name": "Sally McRae\u2019s Power 5 Workout \ud83d\udcaa\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-30T17:02:16Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 21905.0,
+    "elevation_gain": 148.0,
+    "id": "18727571819",
+    "moving_time": 7379.0,
+    "name": "Digital Anywhere. Human Always. \ud83e\udd93 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T11:15:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
