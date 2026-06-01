@@ -35319,5 +35319,44 @@
     "start_date_local": "2026-05-31T11:15:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 2066.4,
+    "elevation_gain": 5.0,
+    "id": "18732181406",
+    "moving_time": 2457.0,
+    "name": "Evening Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-31T18:07:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 5026.3,
+    "elevation_gain": 78.0,
+    "id": "18742629752",
+    "moving_time": 2042.0,
+    "name": "Sunset Run to Adidas Store \ud83c\udf33 \ud83c\udf05 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T16:15:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 1446.0,
+    "elevation_gain": 27.0,
+    "id": "18745019716",
+    "moving_time": 1252.0,
+    "name": "Afternoon Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-01T16:53:24Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
