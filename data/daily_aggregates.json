@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T19:55:05.255795+00:00",
+  "generated_at": "2026-06-02T18:38:58.786183+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19359,6 +19359,17 @@
           "moving_time": 282.0
         }
       },
+      "Elliptical": {
+        "2026-06-02": {
+          "activity_ids": [
+            "18759410520"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1866.0
+        }
+      },
       "Hike": {
         "2026-02-19": {
           "activity_ids": [
@@ -19545,6 +19556,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3772.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18758875454"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3786.0
         }
       },
       "Rowing": {
@@ -21134,6 +21154,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 8255.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18747372487"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3737.0
         }
       },
       "Workout": {
