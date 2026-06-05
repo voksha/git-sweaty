@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T17:45:28.466129+00:00",
+  "generated_at": "2026-06-05T17:14:19.959889+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19565,6 +19565,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3786.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18794894130",
+            "18798863220"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4438.0
         }
       },
       "Rowing": {
@@ -20461,6 +20471,15 @@
           "distance": 10037.9,
           "elevation_gain": 168.0,
           "moving_time": 3594.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18794194396"
+          ],
+          "count": 1,
+          "distance": 440.4,
+          "elevation_gain": 0.0,
+          "moving_time": 175.0
         }
       },
       "StairStepper": {
@@ -21115,6 +21134,24 @@
           "distance": 2149.9,
           "elevation_gain": 60.0,
           "moving_time": 2484.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18787432376"
+          ],
+          "count": 1,
+          "distance": 3227.0,
+          "elevation_gain": 47.0,
+          "moving_time": 2270.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18793859907"
+          ],
+          "count": 1,
+          "distance": 1025.0,
+          "elevation_gain": 16.0,
+          "moving_time": 762.0
         }
       },
       "WeightTraining": {
@@ -21181,6 +21218,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3737.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18796139980"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5594.0
         }
       },
       "Workout": {
@@ -22033,6 +22079,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5477.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18796537546"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1433.0
         }
       },
       "Yoga": {
