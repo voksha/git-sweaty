@@ -19123,6 +19123,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 8,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39605,6 +39619,15 @@
           "distance": 440.4,
           "elevation_gain": 0.0,
           "moving_time": 175.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18805016450"
+          ],
+          "count": 1,
+          "distance": 5048.7,
+          "elevation_gain": 26.0,
+          "moving_time": 1237.0
         }
       },
       "StairStepper": {
@@ -40271,12 +40294,13 @@
         },
         "2026-06-05": {
           "activity_ids": [
-            "18793859907"
+            "18793859907",
+            "18799567763"
           ],
-          "count": 1,
-          "distance": 1025.0,
-          "elevation_gain": 16.0,
-          "moving_time": 762.0
+          "count": 2,
+          "distance": 2025.0,
+          "elevation_gain": 43.0,
+          "moving_time": 1554.0
         }
       },
       "WeightTraining": {
@@ -41255,7 +41279,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:14:19.992669+00:00",
+  "generated_at": "2026-06-06T16:05:18.987816+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
