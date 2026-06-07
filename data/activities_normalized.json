@@ -35540,5 +35540,18 @@
     "start_date_local": "2026-06-06T08:00:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 5308.8,
+    "elevation_gain": 62.0,
+    "id": "18825959115",
+    "moving_time": 1989.0,
+    "name": "Coffee Run to Bootlegger \u2615\ufe0f \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T16:43:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
