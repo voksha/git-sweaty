@@ -35553,5 +35553,31 @@
     "start_date_local": "2026-06-07T16:43:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 1019.0,
+    "elevation_gain": 21.0,
+    "id": "18827514661",
+    "moving_time": 746.0,
+    "name": "Walk back from bootlegger, adidas and checkers \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-07T18:56:56Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 3010.3,
+    "elevation_gain": 47.0,
+    "id": "18839219621",
+    "moving_time": 2351.0,
+    "name": "Afternoon Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-08T15:49:22Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
