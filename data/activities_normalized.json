@@ -35573,11 +35573,50 @@
     "elevation_gain": 47.0,
     "id": "18839219621",
     "moving_time": 2351.0,
-    "name": "Afternoon Walk \u2600\ufe0f",
+    "name": "Walk to SPAR, That Dirty Laundry, Bootlegger. Adidas and New Balance \u2600\ufe0f",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-06-08T15:49:22Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18840633629",
+    "moving_time": 3800.0,
+    "name": "Indoor Bike Ride \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-08T19:30:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18852272325",
+    "moving_time": 3203.0,
+    "name": "Hip Mobility Workout \ud83d\ude4c\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-09T14:40:50Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 5583.9,
+    "elevation_gain": 95.0,
+    "id": "18852273693",
+    "moving_time": 2286.0,
+    "name": "Breaking in to the Rebel v5 \ud83d\udc5f \ud83c\udf33 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T15:51:44Z",
+    "type": "Run",
     "year": 2026
   }
 ]
