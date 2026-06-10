@@ -35618,5 +35618,57 @@
     "start_date_local": "2026-06-09T15:51:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 1020.1,
+    "elevation_gain": 18.0,
+    "id": "18853827897",
+    "moving_time": 643.0,
+    "name": "Walk back from Sportsman Warehouse, Checkers. bootlegger, New Balance, Under Armour and Puma \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-09T19:28:11Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 2089.6,
+    "elevation_gain": 38.0,
+    "id": "18864251064",
+    "moving_time": 1592.0,
+    "name": "Walk to That Dirty Laundry & Virgin Active Health Club \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-10T14:07:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18866800450",
+    "moving_time": 4141.0,
+    "name": "Uphill Athlete: Strength Training \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-10T16:50:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 1021.0,
+    "elevation_gain": 20.0,
+    "id": "18867793776",
+    "moving_time": 932.0,
+    "name": "Evening Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-10T19:12:43Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
