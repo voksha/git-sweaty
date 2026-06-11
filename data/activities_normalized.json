@@ -35664,10 +35664,23 @@
     "elevation_gain": 20.0,
     "id": "18867793776",
     "moving_time": 932.0,
-    "name": "Evening Walk \ud83c\udf19",
+    "name": "Walk from Virgin Active Health Club and Checkers \ud83c\udf19",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-06-10T19:12:43Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 2120.0,
+    "elevation_gain": 36.0,
+    "id": "18880350151",
+    "moving_time": 1559.0,
+    "name": "Comrades Expo 2026 \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-11T13:25:23Z",
     "type": "Walk",
     "year": 2026
   }
