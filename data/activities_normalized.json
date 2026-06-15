@@ -35722,5 +35722,70 @@
     "start_date_local": "2026-06-13T10:00:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 503.3,
+    "elevation_gain": 7.0,
+    "id": "18919997873",
+    "moving_time": 467.0,
+    "name": "Morning Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-14T04:37:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 1215.0,
+    "elevation_gain": 10.0,
+    "id": "18919997944",
+    "moving_time": 1156.0,
+    "name": "Evening Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-14T18:18:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 86419.0,
+    "elevation_gain": 1728.0,
+    "id": "18919999437",
+    "moving_time": 31620.0,
+    "name": "99th Comrades Marathon \ud83c\uddff\ud83c\udde6\ud83c\udfc5\ud83d\udcaa\ud83c\udffc \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T05:00:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 888.0,
+    "elevation_gain": 3.0,
+    "id": "18920021068",
+    "moving_time": 1075.0,
+    "name": "Afternoon Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-14T14:23:46Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18926751058",
+    "moving_time": 1803.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-15T11:22:21Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
