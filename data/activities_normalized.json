@@ -35833,7 +35833,7 @@
     "elevation_gain": 0.0,
     "id": "18968791453",
     "moving_time": 3739.0,
-    "name": "Morning Workout",
+    "name": "Full Body Workout \ud83d\ude4c\ud83c\udffc",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-06-18T10:27:32Z",
@@ -35864,6 +35864,32 @@
     "raw_type": "Walk",
     "start_date_local": "2026-06-18T12:01:13Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 1624.0,
+    "elevation_gain": 14.0,
+    "id": "18989469558",
+    "moving_time": 1362.0,
+    "name": "Evening Walk \u26c5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-18T20:52:43Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18989469515",
+    "moving_time": 2707.0,
+    "name": "Night Workout \ud83c\udfa7",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-19T23:11:59Z",
+    "type": "Workout",
     "year": 2026
   }
 ]
