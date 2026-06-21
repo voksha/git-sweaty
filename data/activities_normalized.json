@@ -35891,5 +35891,57 @@
     "start_date_local": "2026-06-19T23:11:59Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 325.0,
+    "elevation_gain": 3.0,
+    "id": "19001860245",
+    "moving_time": 276.0,
+    "name": "Night Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-20T21:50:07Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 1348.0,
+    "elevation_gain": 5.0,
+    "id": "19001860273",
+    "moving_time": 1058.0,
+    "name": "Night Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-20T22:08:20Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 1667.8,
+    "elevation_gain": 24.0,
+    "id": "19001860390",
+    "moving_time": 1457.0,
+    "name": "Afternoon Walk \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-20T15:59:10Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 702.0,
+    "elevation_gain": 10.0,
+    "id": "19010469014",
+    "moving_time": 714.0,
+    "name": "Afternoon Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T15:03:20Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
