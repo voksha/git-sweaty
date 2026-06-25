@@ -35989,10 +35989,23 @@
     "elevation_gain": 0.0,
     "id": "19050963682",
     "moving_time": 1215.0,
-    "name": "Lunch Workout",
+    "name": "Seat Yoga \ud83d\udcba",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-24T12:28:37Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19062876554",
+    "moving_time": 1911.0,
+    "name": "Stretching & Flexibility \ud83d\udcff",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
-    "start_date_local": "2026-06-24T12:28:37Z",
+    "start_date_local": "2026-06-25T21:40:03Z",
     "type": "Workout",
     "year": 2026
   }
