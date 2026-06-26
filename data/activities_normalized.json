@@ -36008,5 +36008,18 @@
     "start_date_local": "2026-06-25T21:40:03Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 3280.1,
+    "elevation_gain": 0.0,
+    "id": "19071340706",
+    "moving_time": 1417.0,
+    "name": "Treadmill Adi \ud83e\ude8e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T15:30:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
