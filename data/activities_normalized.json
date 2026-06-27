@@ -36021,5 +36021,31 @@
     "start_date_local": "2026-06-26T15:30:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 117.1,
+    "elevation_gain": 4.0,
+    "id": "19083576753",
+    "moving_time": 100.0,
+    "name": "Afternoon Workout \ud83c\udf27",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-27T15:18:22Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19083576821",
+    "moving_time": 3941.0,
+    "name": "HYROX Jakarta Mixed Doubles \u2694\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-27T15:47:30Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
