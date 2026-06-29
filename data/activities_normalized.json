@@ -36067,11 +36067,24 @@
     "elevation_gain": 42.0,
     "id": "19100104179",
     "moving_time": 3618.0,
-    "name": "Afternoon Walk \ud83c\udf19",
+    "name": "HYROX Jakarta Day 2 cheer squad \ud83e\udd73 \ud83c\udf19",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-06-28T17:55:04Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19107769452",
+    "moving_time": 3774.0,
+    "name": "Mobility Workout \ud83e\udea2",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-29T15:02:35Z",
+    "type": "Workout",
     "year": 2026
   }
 ]
