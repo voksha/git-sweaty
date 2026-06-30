@@ -36086,5 +36086,18 @@
     "start_date_local": "2026-06-29T15:02:35Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19120664287",
+    "moving_time": 2729.0,
+    "name": "bikeERG at Obsidian Fitness \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T16:20:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
