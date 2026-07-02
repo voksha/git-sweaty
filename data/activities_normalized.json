@@ -36112,5 +36112,31 @@
     "start_date_local": "2026-07-01T06:20:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 10346.6,
+    "elevation_gain": 75.0,
+    "id": "19143862842",
+    "moving_time": 3672.0,
+    "name": "RunAmuk Thursday 10K \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-02T06:10:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19145223448",
+    "moving_time": 1821.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-02T10:01:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
