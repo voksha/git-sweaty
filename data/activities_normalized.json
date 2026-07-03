@@ -36138,5 +36138,31 @@
     "start_date_local": "2026-07-02T10:01:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19162727839",
+    "moving_time": 1838.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-03T16:25:27Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19163972562",
+    "moving_time": 2917.0,
+    "name": "Night Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-03T21:00:06Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
