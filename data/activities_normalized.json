@@ -36158,11 +36158,24 @@
     "elevation_gain": 0.0,
     "id": "19163972562",
     "moving_time": 2917.0,
-    "name": "Night Workout",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "name": "Yoga \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
     "start_date_local": "2026-07-03T21:00:06Z",
-    "type": "Workout",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 10253.0,
+    "elevation_gain": 43.0,
+    "id": "19169006830",
+    "moving_time": 3810.0,
+    "name": "FLOWERBOY \ud83c\udf3a \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-04T06:03:04Z",
+    "type": "Run",
     "year": 2026
   }
 ]
