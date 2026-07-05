@@ -36177,5 +36177,44 @@
     "start_date_local": "2026-07-04T06:03:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 21178.2,
+    "elevation_gain": 96.0,
+    "id": "19182739652",
+    "moving_time": 7425.0,
+    "name": "RunAmuk Half \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T06:15:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19183793087",
+    "moving_time": 3694.0,
+    "name": "Upper Body & Core \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-05T10:52:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19183907695",
+    "moving_time": 1861.0,
+    "name": "Assault Bike \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-05T11:55:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
