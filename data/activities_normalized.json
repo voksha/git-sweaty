@@ -36268,5 +36268,70 @@
     "start_date_local": "2026-07-06T18:22:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19207137844",
+    "moving_time": 721.0,
+    "name": "CHASE:013 Warm Up \u2b55\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-07T06:39:39Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 5094.0,
+    "elevation_gain": 0.0,
+    "id": "19207516928",
+    "moving_time": 1260.0,
+    "name": "CHASE:013 \ud83d\udc0e \ud83c\udf27",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T06:53:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19208587359",
+    "moving_time": 2748.0,
+    "name": "Tighten & Tone with Coach Mills \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-07T08:54:35Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19208922839",
+    "moving_time": 2701.0,
+    "name": "bikeERG at Obsidian Studio \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-07T09:50:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 500.0,
+    "elevation_gain": 0.0,
+    "id": "19211494385",
+    "moving_time": 712.0,
+    "name": "Swim at Obsidian \ud83c\udfca\ud83c\udffc\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-07T16:18:20Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
