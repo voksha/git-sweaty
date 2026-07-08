@@ -19564,6 +19564,13 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40235,6 +40242,15 @@
           "distance": 5094.0,
           "elevation_gain": 0.0,
           "moving_time": 1260.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19221358051"
+          ],
+          "count": 1,
+          "distance": 10233.1,
+          "elevation_gain": 42.0,
+          "moving_time": 3877.0
         }
       },
       "StairStepper": {
@@ -42183,7 +42199,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:13:32.129753+00:00",
+  "generated_at": "2026-07-08T16:38:12.378310+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",

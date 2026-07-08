@@ -36333,5 +36333,18 @@
     "start_date_local": "2026-07-07T16:18:20Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 10233.1,
+    "elevation_gain": 42.0,
+    "id": "19221358051",
+    "moving_time": 3877.0,
+    "name": "FLOWERBOY \ud83c\udf75 \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T06:02:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
