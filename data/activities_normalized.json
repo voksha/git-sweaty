@@ -36346,5 +36346,31 @@
     "start_date_local": "2026-07-08T06:02:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 5031.5,
+    "elevation_gain": 28.0,
+    "id": "19235556144",
+    "moving_time": 1949.0,
+    "name": "FLOWERBOY X House of Strength X Adidas X Continuum \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-09T06:44:10Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19239275629",
+    "moving_time": 1937.0,
+    "name": "Lower Body TechnoGym at House of Kairos\ud83e\uddb5\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-09T15:31:53Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
