@@ -36385,5 +36385,70 @@
     "start_date_local": "2026-07-10T20:01:00Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 5185.0,
+    "elevation_gain": 28.0,
+    "id": "19261128646",
+    "moving_time": 1297.0,
+    "name": "Rise Run Bali X Seminyak Village \ud83c\udfce\ufe0f \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-11T06:07:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19262807587",
+    "moving_time": 2713.0,
+    "name": "bikeERG at Obsidian Studio \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T09:22:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19262850234",
+    "moving_time": 158.0,
+    "name": "WU skiERG \u26f7\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-11T10:10:26Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19263047438",
+    "moving_time": 1618.0,
+    "name": "Dumbbells Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-11T10:25:47Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19263314312",
+    "moving_time": 1953.0,
+    "name": "assaultBike at Obsidian Fitness \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T11:20:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
