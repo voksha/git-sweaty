@@ -36450,5 +36450,18 @@
     "start_date_local": "2026-07-11T11:20:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 17191.3,
+    "elevation_gain": 101.0,
+    "id": "19275409705",
+    "moving_time": 6473.0,
+    "name": "SATISFY LSD X FLOWERBOY \ud83c\udf3a \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T06:13:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
