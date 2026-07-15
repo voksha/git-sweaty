@@ -36528,5 +36528,31 @@
     "start_date_local": "2026-07-14T17:35:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 6777.4,
+    "elevation_gain": 47.0,
+    "id": "19316401803",
+    "moving_time": 2346.0,
+    "name": "Entourage Sunrise Run X Le Bajo Bali \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T07:14:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 225.0,
+    "elevation_gain": 0.0,
+    "id": "19321354945",
+    "moving_time": 294.0,
+    "name": "Le Bajo Dip \ud83c\udfca\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-15T17:17:22Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
