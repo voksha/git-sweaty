@@ -36554,5 +36554,44 @@
     "start_date_local": "2026-07-15T17:17:22Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19332268393",
+    "moving_time": 3670.0,
+    "name": "bileERG at Obsidian Studio \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T12:57:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19333368218",
+    "moving_time": 3666.0,
+    "name": "Core Strength Routine \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-16T14:51:47Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 5009.0,
+    "elevation_gain": 27.0,
+    "id": "19334725538",
+    "moving_time": 2196.0,
+    "name": "Orbia X Keen Cafe \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-16T18:13:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
