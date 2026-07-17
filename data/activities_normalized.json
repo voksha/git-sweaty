@@ -36593,5 +36593,18 @@
     "start_date_local": "2026-07-16T18:13:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19349177043",
+    "moving_time": 8580.0,
+    "name": "Runners Bodyweight Training \ud83d\ude4c\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-17T18:00:56Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
