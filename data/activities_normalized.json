@@ -36606,5 +36606,70 @@
     "start_date_local": "2026-07-17T18:00:56Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 5254.9,
+    "elevation_gain": 16.0,
+    "id": "19355386093",
+    "moving_time": 2539.0,
+    "name": "The Compound Community Run \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-18T06:09:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19356279679",
+    "moving_time": 910.0,
+    "name": "The Compound Gym Challenges \ud83c\udfc6",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-18T08:12:52Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19359305798",
+    "moving_time": 1855.0,
+    "name": "Indoor Bike at The Compound Gym \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T16:10:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19360128201",
+    "moving_time": 589.0,
+    "name": "Dumbbell Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-18T17:00:06Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19360128337",
+    "moving_time": 1815.0,
+    "name": "Isometric Workout \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-18T17:15:25Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

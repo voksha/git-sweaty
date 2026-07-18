@@ -19711,6 +19711,41 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 8,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 17,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 17,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39379,6 +39414,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3670.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19359305798"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1855.0
         }
       },
       "Rowing": {
@@ -40473,6 +40517,15 @@
           "distance": 5009.0,
           "elevation_gain": 27.0,
           "moving_time": 2196.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19355386093"
+          ],
+          "count": 1,
+          "distance": 5254.9,
+          "elevation_gain": 16.0,
+          "moving_time": 2539.0
         }
       },
       "StairStepper": {
@@ -41417,6 +41470,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1618.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19360128201"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 589.0
         }
       },
       "Workout": {
@@ -42443,6 +42505,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 8580.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19356279679",
+            "19360128337"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2725.0
         }
       },
       "Yoga": {
@@ -42503,7 +42575,7 @@
       }
     }
   },
-  "generated_at": "2026-07-17T16:14:43.429722+00:00",
+  "generated_at": "2026-07-18T15:56:05.129064+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
