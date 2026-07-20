@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:57:06.381219+00:00",
+  "generated_at": "2026-07-20T16:23:17.010647+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19675,6 +19675,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1855.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19383605097",
+            "19383998187"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3783.0
         }
       },
       "Rowing": {
@@ -20778,6 +20788,15 @@
           "distance": 5254.9,
           "elevation_gain": 16.0,
           "moving_time": 2539.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19382720742"
+          ],
+          "count": 1,
+          "distance": 6076.0,
+          "elevation_gain": 37.0,
+          "moving_time": 2320.0
         }
       },
       "StairStepper": {
@@ -21731,6 +21750,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 589.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19383883768"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3919.0
         }
       },
       "Workout": {
@@ -22768,14 +22796,14 @@
           "elevation_gain": 0.0,
           "moving_time": 2725.0
         },
-        "2026-07-19": {
+        "2026-07-20": {
           "activity_ids": [
-            "19376333830"
+            "19384193324"
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 2458.0
+          "moving_time": 925.0
         }
       },
       "Yoga": {
@@ -22832,6 +22860,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2917.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19376333830"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2458.0
         }
       }
     }
