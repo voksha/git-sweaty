@@ -36749,5 +36749,57 @@
     "start_date_local": "2026-07-20T12:48:57Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19395712858",
+    "moving_time": 173.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-21T06:39:08Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 484.0,
+    "elevation_gain": 0.0,
+    "id": "19395712873",
+    "moving_time": 154.0,
+    "name": "Morning Run \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T06:43:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 5207.8,
+    "elevation_gain": 4.0,
+    "id": "19395712879",
+    "moving_time": 1108.0,
+    "name": "CHASE:015 \ud83d\udc0e \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T06:48:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19399881181",
+    "moving_time": 3817.0,
+    "name": "Booty class at Obsidian Fitness Studio\ud83e\uddb5\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-21T16:25:34Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
