@@ -36801,5 +36801,18 @@
     "start_date_local": "2026-07-21T16:25:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 33249.0,
+    "elevation_gain": 181.0,
+    "id": "19410344629",
+    "moving_time": 10805.0,
+    "name": "Back to night running \ud83d\udc15 \ud83d\udd26 \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-22T03:30:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
