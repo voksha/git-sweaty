@@ -36769,7 +36769,7 @@
     "elevation_gain": 0.0,
     "id": "19395712873",
     "moving_time": 154.0,
-    "name": "Morning Run \u2601\ufe0f",
+    "name": "CHASE:015 Warm Up \u2601\ufe0f",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-07-21T06:43:25Z",
@@ -36813,6 +36813,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-07-22T03:30:13Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19432379774",
+    "moving_time": 2206.0,
+    "name": "Stretching & Flexibility \ud83e\udea2",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-23T21:20:33Z",
+    "type": "Workout",
     "year": 2026
   }
 ]
