@@ -36827,5 +36827,44 @@
     "start_date_local": "2026-07-23T21:20:33Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 6079.0,
+    "elevation_gain": 38.0,
+    "id": "19438700644",
+    "moving_time": 2122.0,
+    "name": "Seseh loop with the Self Hug journal 2/2 \ud83d\udcd3\u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T06:44:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19440129625",
+    "moving_time": 3605.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-24T09:20:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19440475947",
+    "moving_time": 3741.0,
+    "name": "mini-HYROX Workout \ud83e\udd75",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-24T10:30:19Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
