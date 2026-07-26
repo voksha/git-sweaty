@@ -19858,6 +19858,34 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 4,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 5,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 5,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 6,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40694,6 +40722,15 @@
           "distance": 6079.0,
           "elevation_gain": 38.0,
           "moving_time": 2122.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19464877087"
+          ],
+          "count": 1,
+          "distance": 10115.5,
+          "elevation_gain": 47.0,
+          "moving_time": 2485.0
         }
       },
       "StairStepper": {
@@ -41518,6 +41555,17 @@
           "distance": 4799.0,
           "elevation_gain": 42.0,
           "moving_time": 3618.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19464270841",
+            "19464876841",
+            "19466498119"
+          ],
+          "count": 3,
+          "distance": 3067.2,
+          "elevation_gain": 28.0,
+          "moving_time": 2479.0
         }
       },
       "WeightTraining": {
@@ -42815,7 +42863,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T16:03:29.013952+00:00",
+  "generated_at": "2026-07-26T16:00:01.162489+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",

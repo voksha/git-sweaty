@@ -36879,5 +36879,57 @@
     "start_date_local": "2026-07-25T20:03:02Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 664.0,
+    "elevation_gain": 0.0,
+    "id": "19464270841",
+    "moving_time": 562.0,
+    "name": "Morning Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-26T04:36:21Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 785.0,
+    "elevation_gain": 4.0,
+    "id": "19464876841",
+    "moving_time": 494.0,
+    "name": "Morning Walk \ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-26T05:04:39Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 10115.5,
+    "elevation_gain": 47.0,
+    "id": "19464877087",
+    "moving_time": 2485.0,
+    "name": "Bali Culture Run 10K \ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T05:30:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 1618.2,
+    "elevation_gain": 24.0,
+    "id": "19466498119",
+    "moving_time": 1423.0,
+    "name": "Morning Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-26T06:45:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
