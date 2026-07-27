@@ -36931,5 +36931,31 @@
     "start_date_local": "2026-07-26T06:45:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 2500.8,
+    "elevation_gain": 30.0,
+    "id": "19482493436",
+    "moving_time": 932.0,
+    "name": "HYROX Threshold at Obsidian \ud83c\udf27",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-27T16:20:43Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 500.0,
+    "elevation_gain": 0.0,
+    "id": "19483345009",
+    "moving_time": 628.0,
+    "name": "Pool Swim at Obsidian \ud83c\udfca\ud83c\udffc\u200d\u2642\ufe0f",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-27T17:40:52Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
