@@ -36957,5 +36957,44 @@
     "start_date_local": "2026-07-27T17:40:52Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 7837.0,
+    "elevation_gain": 0.0,
+    "id": "19492837084",
+    "moving_time": 1879.0,
+    "name": "CHASE:016 \ud83d\udc0e \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T07:00:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19494592189",
+    "moving_time": 1922.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T12:12:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19495254002",
+    "moving_time": 4799.0,
+    "name": "Dumbbells Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-28T13:00:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
