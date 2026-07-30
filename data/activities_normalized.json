@@ -37022,5 +37022,44 @@
     "start_date_local": "2026-07-29T16:52:52Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 1007.3,
+    "elevation_gain": 58.0,
+    "id": "19523789748",
+    "moving_time": 1211.0,
+    "name": "Uluwatu Impossible Beach \ud83c\udfd6\ufe0f \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-30T11:50:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 3753.0,
+    "elevation_gain": 64.0,
+    "id": "19526887067",
+    "moving_time": 3701.0,
+    "name": "Bingin to Dream Land \ud83c\udfd6\ufe0f \u26c5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-30T15:38:15Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19528082387",
+    "moving_time": 2802.0,
+    "name": "Core Tuning \u2699\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-30T19:20:35Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
