@@ -37074,5 +37074,31 @@
     "start_date_local": "2026-07-31T16:15:12Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 85.0,
+    "elevation_gain": 0.0,
+    "id": "19548298099",
+    "moving_time": 114.0,
+    "name": "Sunshine Coast Airport Walk with Jule \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-01T08:18:11Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 6785.0,
+    "elevation_gain": 124.0,
+    "id": "19550716781",
+    "moving_time": 5882.0,
+    "name": "Noosa Heads Walk \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-01T12:55:48Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
