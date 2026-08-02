@@ -37100,5 +37100,31 @@
     "start_date_local": "2026-08-01T12:55:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 2767.0,
+    "elevation_gain": 88.0,
+    "id": "19564764061",
+    "moving_time": 2129.0,
+    "name": "Walk to Noosa Social \u2615\ufe0f \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-02T14:36:56Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 7567.4,
+    "elevation_gain": 88.0,
+    "id": "19565494463",
+    "moving_time": 2798.0,
+    "name": "Sunshine to Sunrise Beach \ud83c\udfd6\ufe0f \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T16:50:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
