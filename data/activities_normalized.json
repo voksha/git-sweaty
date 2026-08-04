@@ -37139,5 +37139,44 @@
     "start_date_local": "2026-08-03T13:49:03Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 2013.2,
+    "elevation_gain": 18.0,
+    "id": "19591441031",
+    "moving_time": 1555.0,
+    "name": "Walk to Tempt Patisserie & Vault Caf\u00e9 \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-04T11:46:47Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 10751.0,
+    "elevation_gain": 122.0,
+    "id": "19591959267",
+    "moving_time": 3874.0,
+    "name": "Noosaville to Hell\u2019s Gate \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T13:14:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 5033.0,
+    "elevation_gain": 175.0,
+    "id": "19592500325",
+    "moving_time": 3895.0,
+    "name": "Alexandria Bay Hike \u26c5",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-04T14:52:12Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
