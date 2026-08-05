@@ -37178,5 +37178,31 @@
     "start_date_local": "2026-08-04T14:52:12Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 1632.2,
+    "elevation_gain": 55.0,
+    "id": "19606317636",
+    "moving_time": 1181.0,
+    "name": "Walk back and forth to Avis \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-05T11:12:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 6630.0,
+    "elevation_gain": 22.0,
+    "id": "19608148031",
+    "moving_time": 5103.0,
+    "name": "Kawana Beach Walk \ud83c\udfd6\ufe0f \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-05T15:19:24Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
