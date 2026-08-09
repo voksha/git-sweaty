@@ -37282,5 +37282,70 @@
     "start_date_local": "2026-08-08T11:30:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 24469.1,
+    "elevation_gain": 109.0,
+    "id": "19661526025",
+    "moving_time": 7436.0,
+    "name": "Surfers Paradise to Gold Coast Airport \ud83c\udfd6\ufe0f \ud83d\ude0e \u2708\ufe0f \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T07:47:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 399.0,
+    "elevation_gain": 5.0,
+    "id": "19664103449",
+    "moving_time": 310.0,
+    "name": "Afternoon Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-09T13:11:27Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 5233.3,
+    "elevation_gain": 13.0,
+    "id": "19664103473",
+    "moving_time": 1583.0,
+    "name": "Jule\u2019s official birthday kickoff run \ud83d\udc90 \ud83c\udf82 \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T17:34:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 8478.4,
+    "elevation_gain": 41.0,
+    "id": "19664103569",
+    "moving_time": 6583.0,
+    "name": "The Coffee Club Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-09T13:28:10Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 1008.0,
+    "elevation_gain": 2.0,
+    "id": "19664255380",
+    "moving_time": 688.0,
+    "name": "Walk back to SeaWorld Bus Stop \ud83d\ude8f\ud83c\udf19",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-09T18:09:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
