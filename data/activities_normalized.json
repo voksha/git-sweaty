@@ -37347,5 +37347,18 @@
     "start_date_local": "2026-08-09T18:09:33Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19678042620",
+    "moving_time": 2098.0,
+    "name": "Snap Fitness \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-10T15:20:37Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
