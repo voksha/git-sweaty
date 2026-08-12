@@ -37425,5 +37425,44 @@
     "start_date_local": "2026-08-11T15:48:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 8303.1,
+    "elevation_gain": 51.0,
+    "id": "19704689761",
+    "moving_time": 5973.0,
+    "name": "Olive Coffee to Southport Library Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-12T08:57:32Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19706421898",
+    "moving_time": 3765.0,
+    "name": "Uphill Athlete: Strength Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-12T15:26:20Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19706754881",
+    "moving_time": 1224.0,
+    "name": "Snap Fitness Stair Stepper \ud83e\udedf",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-08-12T16:45:07Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
