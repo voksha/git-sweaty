@@ -37464,5 +37464,18 @@
     "start_date_local": "2026-08-12T16:45:07Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19724268330",
+    "moving_time": 1333.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-13T19:32:41Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
