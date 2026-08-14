@@ -37471,10 +37471,36 @@
     "elevation_gain": 0.0,
     "id": "19724268330",
     "moving_time": 1333.0,
-    "name": "Evening Workout",
-    "raw_activity_type": "Workout",
+    "name": "Seat Yoga \ud83d\udcba",
+    "raw_activity_type": "Yoga",
     "raw_type": "Workout",
     "start_date_local": "2026-08-13T19:32:41Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 5550.4,
+    "elevation_gain": 24.0,
+    "id": "19732338300",
+    "moving_time": 1755.0,
+    "name": "Back in Bali\ud83c\udf34\ud83c\udf38\ud83d\udc36 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-14T07:37:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19733547568",
+    "moving_time": 3720.0,
+    "name": "Booty Class with Coach Millie \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-14T10:03:57Z",
     "type": "Workout",
     "year": 2026
   }
