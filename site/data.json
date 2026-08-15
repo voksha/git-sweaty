@@ -20194,6 +20194,27 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 9,
+      "subtype": "Pilates",
+      "type": "Pilates",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 16,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39617,6 +39638,17 @@
           "moving_time": 315.0
         }
       },
+      "Pilates": {
+        "2026-08-15": {
+          "activity_ids": [
+            "19746000284"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2645.0
+        }
+      },
       "Ride": {
         "2026-02-16": {
           "activity_ids": [
@@ -41139,6 +41171,15 @@
           "distance": 5550.4,
           "elevation_gain": 24.0,
           "moving_time": 1755.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19744765259"
+          ],
+          "count": 1,
+          "distance": 10201.0,
+          "elevation_gain": 43.0,
+          "moving_time": 3819.0
         }
       },
       "StairStepper": {
@@ -43418,6 +43459,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3720.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19748986634"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3629.0
         }
       },
       "Yoga": {
@@ -43487,7 +43537,7 @@
       }
     }
   },
-  "generated_at": "2026-08-14T15:50:35.317338+00:00",
+  "generated_at": "2026-08-15T15:18:41.995933+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",

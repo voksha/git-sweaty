@@ -37503,5 +37503,44 @@
     "start_date_local": "2026-08-14T10:03:57Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 10201.0,
+    "elevation_gain": 43.0,
+    "id": "19744765259",
+    "moving_time": 3819.0,
+    "name": "Flowerboy\ud83c\udf38 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-15T06:06:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19746000284",
+    "moving_time": 2645.0,
+    "name": "Mat Pilates with Max \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-08-15T09:03:59Z",
+    "type": "Pilates",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19748986634",
+    "moving_time": 3629.0,
+    "name": "Hip & Back Mobility by Hojeong \ud83e\uddf1",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-15T16:01:42Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
