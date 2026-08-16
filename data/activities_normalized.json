@@ -37542,5 +37542,44 @@
     "start_date_local": "2026-08-15T16:01:42Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 21613.5,
+    "elevation_gain": 112.0,
+    "id": "19759576761",
+    "moving_time": 8169.0,
+    "name": "Runamuk Half \ud83e\uddae \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T06:18:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19761110211",
+    "moving_time": 3616.0,
+    "name": "Core & Mobility with Dian \ud83e\uddf1",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-16T13:00:10Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19763645955",
+    "moving_time": 2729.0,
+    "name": "Meditation \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-16T17:16:03Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
