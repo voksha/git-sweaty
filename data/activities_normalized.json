@@ -37581,5 +37581,57 @@
     "start_date_local": "2026-08-16T17:16:03Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 6077.4,
+    "elevation_gain": 29.0,
+    "id": "19773079953",
+    "moving_time": 1599.0,
+    "name": "Indonesia Independence Day Run \ud83c\uddee\ud83c\udde9 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-17T06:38:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19777034088",
+    "moving_time": 722.0,
+    "name": "Dumbbells Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-17T17:56:20Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19777194711",
+    "moving_time": 776.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-17T18:13:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19777529345",
+    "moving_time": 1235.0,
+    "name": "Combat Training \ud83e\udd4a",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-17T18:32:58Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
