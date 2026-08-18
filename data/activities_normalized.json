@@ -37614,7 +37614,7 @@
     "elevation_gain": 0.0,
     "id": "19777194711",
     "moving_time": 776.0,
-    "name": "Evening Ride",
+    "name": "Sitting Bike TechnoGym \ud83d\udeb2",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-08-17T18:13:19Z",
@@ -37632,6 +37632,32 @@
     "raw_type": "Workout",
     "start_date_local": "2026-08-17T18:32:58Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19790995453",
+    "moving_time": 3018.0,
+    "name": "Mobility at Reload\ud83e\uddb5\ud83c\udffd",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-18T17:04:23Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19791926578",
+    "moving_time": 3652.0,
+    "name": "Sunset Yoga at Reload \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-18T18:01:16Z",
+    "type": "Yoga",
     "year": 2026
   }
 ]
