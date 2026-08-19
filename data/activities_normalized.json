@@ -37659,5 +37659,31 @@
     "start_date_local": "2026-08-18T18:01:16Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 10186.6,
+    "elevation_gain": 42.0,
+    "id": "19801604111",
+    "moving_time": 3771.0,
+    "name": "Flowerboy\ud83c\udf38 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T06:08:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 1082.1,
+    "elevation_gain": 16.0,
+    "id": "19806518769",
+    "moving_time": 976.0,
+    "name": "HYROX Workout at Reload \u2601\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-19T17:21:18Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
