@@ -37685,5 +37685,31 @@
     "start_date_local": "2026-08-19T17:21:18Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19820645265",
+    "moving_time": 3005.0,
+    "name": "Mat Pilates with Hojeong \ud83e\uddf6",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-20T17:03:35Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19821105809",
+    "moving_time": 1861.0,
+    "name": "TechnoGym Bike \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-20T18:00:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
