@@ -37731,7 +37731,7 @@
     "elevation_gain": 0.0,
     "id": "19838481075",
     "moving_time": 3641.0,
-    "name": "Evening Workout",
+    "name": "Sound Healing at Reload \ud83d\udc86\ud83c\udffb",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-08-21T19:01:06Z",
@@ -37744,11 +37744,24 @@
     "elevation_gain": 62.0,
     "id": "19838481634",
     "moving_time": 2962.0,
-    "name": "Lunch Walk \u2600\ufe0f",
+    "name": "Maybank Bali Marathon Expo \u2600\ufe0f",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-08-21T12:57:37Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 5015.5,
+    "elevation_gain": 34.0,
+    "id": "19843684218",
+    "moving_time": 2142.0,
+    "name": "Saucony X Lari Pagi Bali X Runamuk X 180SSPM Shakout \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T06:20:19Z",
+    "type": "Run",
     "year": 2026
   }
 ]
