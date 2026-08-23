@@ -37763,5 +37763,70 @@
     "start_date_local": "2026-08-22T06:20:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 1025.0,
+    "elevation_gain": 23.0,
+    "id": "19857213183",
+    "moving_time": 792.0,
+    "name": "Night Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T03:49:06Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 42434.2,
+    "elevation_gain": 324.0,
+    "id": "19857213305",
+    "moving_time": 11873.0,
+    "name": "Bali Marathon\ud83c\udf38\ud83c\udf34\ud83d\ude42\u200d\u2194\ufe0f \ud83c\udf27",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T04:20:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19857746432",
+    "moving_time": 1203.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T08:22:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 945.1,
+    "elevation_gain": 22.0,
+    "id": "19857746482",
+    "moving_time": 1096.0,
+    "name": "Morning Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T07:41:22Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19858396059",
+    "moving_time": 2492.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-23T08:51:42Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
