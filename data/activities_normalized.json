@@ -37828,5 +37828,18 @@
     "start_date_local": "2026-08-23T08:51:42Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19877895069",
+    "moving_time": 1886.0,
+    "name": "Meditation \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-24T20:40:07Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
