@@ -37841,5 +37841,44 @@
     "start_date_local": "2026-08-24T20:40:07Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 532.0,
+    "elevation_gain": 4.0,
+    "id": "19884851207",
+    "moving_time": 341.0,
+    "name": "Morning Workout \u26c5",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-25T06:41:33Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 6250.0,
+    "elevation_gain": 0.0,
+    "id": "19885361086",
+    "moving_time": 1361.0,
+    "name": "CHASE: 0XX \ud83d\udc06 \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T06:49:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19890841109",
+    "moving_time": 2080.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T18:20:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
