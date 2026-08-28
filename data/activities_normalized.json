@@ -37932,5 +37932,83 @@
     "start_date_local": "2026-08-27T17:08:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19931981858",
+    "moving_time": 3731.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-28T12:24:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19931981873",
+    "moving_time": 4038.0,
+    "name": "Push Day Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-28T11:13:33Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19932562297",
+    "moving_time": 1203.0,
+    "name": "bikeERG \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-28T15:30:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 2951.0,
+    "elevation_gain": 53.0,
+    "id": "19933220093",
+    "moving_time": 1212.0,
+    "name": "HYROX Threshold Partner Workout \u2600\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-28T16:19:38Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 225.0,
+    "elevation_gain": 0.0,
+    "id": "19933375710",
+    "moving_time": 348.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-28T17:25:05Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 10336.3,
+    "elevation_gain": 41.0,
+    "id": "19941717280",
+    "moving_time": 4006.0,
+    "name": "Morning Run \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T06:04:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
