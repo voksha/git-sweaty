@@ -38004,11 +38004,37 @@
     "elevation_gain": 41.0,
     "id": "19941717280",
     "moving_time": 4006.0,
-    "name": "Morning Run \ud83c\udf19",
+    "name": "Flowerboy\ud83c\udf38 \ud83c\udf19",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-08-29T06:04:31Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19943311610",
+    "moving_time": 3670.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T09:48:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19946620735",
+    "moving_time": 3766.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T17:07:42Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
