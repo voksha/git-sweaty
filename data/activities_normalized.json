@@ -38036,5 +38036,18 @@
     "start_date_local": "2026-08-29T17:07:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 21106.9,
+    "elevation_gain": 102.0,
+    "id": "19956128267",
+    "moving_time": 7895.0,
+    "name": "Runamuk Easy \ud83c\udf6b\ud83e\udebf\ud83e\uddae \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T06:18:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
