@@ -38049,5 +38049,31 @@
     "start_date_local": "2026-08-30T06:18:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19971434246",
+    "moving_time": 1801.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-31T12:58:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19972923970",
+    "moving_time": 8859.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-31T14:40:11Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
