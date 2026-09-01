@@ -37965,7 +37965,7 @@
     "elevation_gain": 0.0,
     "id": "19932562297",
     "moving_time": 1203.0,
-    "name": "bikeERG \ud83d\udeb2",
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-08-28T15:30:36Z",
@@ -38069,11 +38069,37 @@
     "elevation_gain": 0.0,
     "id": "19972923970",
     "moving_time": 8859.0,
-    "name": "Afternoon Weight Training",
+    "name": "Back & Biceps / Pull Day Workout \ud83d\udcaa\ud83c\udffc",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-08-31T14:40:11Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 1037.0,
+    "elevation_gain": 2.0,
+    "id": "19982413715",
+    "moving_time": 458.0,
+    "name": "Chase Warm Up \ud83d\udc5f \u2601\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-01T06:47:09Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 10042.4,
+    "elevation_gain": 0.0,
+    "id": "19983114908",
+    "moving_time": 2355.0,
+    "name": "CHASE 21 \ud83d\udc4a\ud83c\udffc \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T06:57:33Z",
+    "type": "Run",
     "year": 2026
   }
 ]
