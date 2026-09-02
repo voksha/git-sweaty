@@ -38101,5 +38101,44 @@
     "start_date_local": "2026-09-01T06:57:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 10184.8,
+    "elevation_gain": 38.0,
+    "id": "19997872691",
+    "moving_time": 3999.0,
+    "name": "Flowerboy\ud83c\udf38 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T06:06:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19999671580",
+    "moving_time": 3608.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-02T09:45:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20000366592",
+    "moving_time": 3911.0,
+    "name": "Lower Body & Core \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-02T12:00:03Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
