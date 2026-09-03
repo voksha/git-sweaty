@@ -38140,5 +38140,44 @@
     "start_date_local": "2026-09-02T12:00:03Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20016884874",
+    "moving_time": 3654.0,
+    "name": "Booty Class with Coach Millie \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-03T16:21:41Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20017566300",
+    "moving_time": 3891.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-03T17:24:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 525.0,
+    "elevation_gain": 0.0,
+    "id": "20017768229",
+    "moving_time": 632.0,
+    "name": "Obsidian Swim \ud83c\udfca\ud83c\udffc",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-03T18:31:47Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
