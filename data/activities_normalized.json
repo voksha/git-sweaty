@@ -38179,5 +38179,31 @@
     "start_date_local": "2026-09-03T18:31:47Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 3268.5,
+    "elevation_gain": 56.0,
+    "id": "20027443577",
+    "moving_time": 1305.0,
+    "name": "HYROX Threshold at Obsidian \u2600\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-04T07:34:53Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20027971547",
+    "moving_time": 3950.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-04T08:43:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
