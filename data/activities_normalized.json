@@ -38205,5 +38205,18 @@
     "start_date_local": "2026-09-04T08:43:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 5273.4,
+    "elevation_gain": 5.0,
+    "id": "20039128082",
+    "moving_time": 1245.0,
+    "name": "CHASE MEET XO \ud83d\ude2e\u200d\ud83d\udca8 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-05T06:43:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
