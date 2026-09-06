@@ -38218,5 +38218,57 @@
     "start_date_local": "2026-09-05T06:43:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20055292492",
+    "moving_time": 5407.0,
+    "name": "Mobility & Flexibility \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-06T10:00:47Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20055885742",
+    "moving_time": 5465.0,
+    "name": "Full Body Workout \ud83c\udfcb\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-06T13:39:08Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20056168334",
+    "moving_time": 1897.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T15:11:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 150.0,
+    "elevation_gain": 0.0,
+    "id": "20056471370",
+    "moving_time": 128.0,
+    "name": "Swim at Obsidian \ud83c\udfca\ud83c\udffc",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-06T16:09:12Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
