@@ -38270,5 +38270,31 @@
     "start_date_local": "2026-09-06T16:09:12Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20070967081",
+    "moving_time": 1802.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T17:00:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20070967090",
+    "moving_time": 4056.0,
+    "name": "Push Day Workout \ud83c\udfcb\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-07T15:50:43Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
