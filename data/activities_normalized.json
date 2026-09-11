@@ -38374,5 +38374,18 @@
     "start_date_local": "2026-09-10T18:24:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20130889652",
+    "moving_time": 1827.0,
+    "name": "Stretching & Flexibility \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-11T21:50:17Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
