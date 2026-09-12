@@ -38387,5 +38387,44 @@
     "start_date_local": "2026-09-11T21:50:17Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 6464.0,
+    "elevation_gain": 35.0,
+    "id": "20135943036",
+    "moving_time": 1679.0,
+    "name": "Seseh Interval \ud83e\udd75 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T06:35:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 16263.3,
+    "elevation_gain": 86.0,
+    "id": "20136900103",
+    "moving_time": 5819.0,
+    "name": "Improptu 10-miler \ud83d\ude42\u200d\u2194\ufe0f \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T07:10:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20138719768",
+    "moving_time": 1937.0,
+    "name": "Upper Body & Core \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-12T13:01:43Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
