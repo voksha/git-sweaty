@@ -38426,5 +38426,18 @@
     "start_date_local": "2026-09-12T13:01:43Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 21131.0,
+    "elevation_gain": 656.0,
+    "id": "20151852246",
+    "moving_time": 7884.0,
+    "name": "Botanical Garden Adventure Run \ud83d\udc0d \ud83d\udc12 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-13T08:19:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
