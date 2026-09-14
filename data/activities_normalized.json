@@ -38439,5 +38439,31 @@
     "start_date_local": "2026-09-13T08:19:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 9999.5,
+    "elevation_gain": 0.0,
+    "id": "20166448067",
+    "moving_time": 2061.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-14T13:23:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20167024138",
+    "moving_time": 3754.0,
+    "name": "Back & Biceps Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-14T14:20:24Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
