@@ -38465,5 +38465,31 @@
     "start_date_local": "2026-09-14T14:20:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 6940.6,
+    "elevation_gain": 0.0,
+    "id": "20177845658",
+    "moving_time": 2077.0,
+    "name": "CHASE 23&me \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-15T06:50:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20183186714",
+    "moving_time": 4256.0,
+    "name": "Chest, Shoulders & Triceps \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-15T17:32:56Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
