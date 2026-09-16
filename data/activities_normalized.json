@@ -38491,5 +38491,44 @@
     "start_date_local": "2026-09-15T17:32:56Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 3384.2,
+    "elevation_gain": 14.0,
+    "id": "20192429134",
+    "moving_time": 1031.0,
+    "name": "Celebrating Brennan\u2019s Birthday \ud83c\udf82 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T06:42:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20196886359",
+    "moving_time": 3601.0,
+    "name": "HYROX Threshold at Obsidian \ud83d\ude4c\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-16T16:21:15Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 21119.0,
+    "elevation_gain": 0.0,
+    "id": "20197602518",
+    "moving_time": 3674.0,
+    "name": "bikeERG at Obsidian \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T17:30:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
