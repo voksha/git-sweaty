@@ -38556,5 +38556,18 @@
     "start_date_local": "2026-09-18T18:06:27Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 6961.0,
+    "elevation_gain": 44.0,
+    "id": "20232761938",
+    "moving_time": 2490.0,
+    "name": "Reload Run & Recover \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T06:12:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
