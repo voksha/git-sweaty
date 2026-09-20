@@ -38569,5 +38569,18 @@
     "start_date_local": "2026-09-19T06:12:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 13208.2,
+    "elevation_gain": 73.0,
+    "id": "20247276387",
+    "moving_time": 3732.0,
+    "name": "Low Volume High Intensity \ud83e\udd1b\ud83c\udffc \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T06:20:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
