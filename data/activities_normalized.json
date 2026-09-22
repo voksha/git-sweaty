@@ -38595,5 +38595,44 @@
     "start_date_local": "2026-09-21T20:45:28Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 1002.0,
+    "elevation_gain": 7.0,
+    "id": "20274714771",
+    "moving_time": 480.0,
+    "name": "CHASE Warm Up \u2600\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-22T06:38:57Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 6518.0,
+    "elevation_gain": 0.0,
+    "id": "20274714783",
+    "moving_time": 1607.0,
+    "name": "CHASE 24 \ud83d\udc4a\ud83c\udffc \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-22T06:50:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20276877444",
+    "moving_time": 5549.0,
+    "name": "Packing \ud83d\udce6",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-22T12:01:35Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
