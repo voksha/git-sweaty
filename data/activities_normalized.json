@@ -38699,5 +38699,44 @@
     "start_date_local": "2026-09-24T17:45:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 1008.0,
+    "elevation_gain": 15.0,
+    "id": "20323062201",
+    "moving_time": 717.0,
+    "name": "Lunch Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-25T12:43:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 3034.0,
+    "elevation_gain": 52.0,
+    "id": "20325283980",
+    "moving_time": 2442.0,
+    "name": "Berlin Marathon Expo Day 2 \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-25T15:02:05Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 889.0,
+    "elevation_gain": 20.0,
+    "id": "20326158062",
+    "moving_time": 805.0,
+    "name": "Evening Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-25T18:15:02Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
