@@ -38738,5 +38738,57 @@
     "start_date_local": "2026-09-25T18:15:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 5075.0,
+    "elevation_gain": 6.0,
+    "id": "20332934942",
+    "moving_time": 1312.0,
+    "name": "Generali Berlin 5K 2026 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T10:00:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 651.0,
+    "elevation_gain": 66.0,
+    "id": "20333469031",
+    "moving_time": 638.0,
+    "name": "Morning Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-26T10:27:21Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 2006.0,
+    "elevation_gain": 13.0,
+    "id": "20336028086",
+    "moving_time": 1708.0,
+    "name": "Lunch Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-26T11:21:03Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 656.3,
+    "elevation_gain": 15.0,
+    "id": "20337776832",
+    "moving_time": 494.0,
+    "name": "Afternoon Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-26T14:35:44Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
