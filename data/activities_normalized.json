@@ -38790,5 +38790,44 @@
     "start_date_local": "2026-09-26T14:35:44Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 1741.0,
+    "elevation_gain": 13.0,
+    "id": "20349768129",
+    "moving_time": 1369.0,
+    "name": "Walk to Berlin start + warm up zoomies \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-27T07:28:20Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 42418.0,
+    "elevation_gain": 90.0,
+    "id": "20349768429",
+    "moving_time": 10750.0,
+    "name": "Sub-fucking three Berlin, It had to be done. \ud83e\udd1f\ud83c\udffc \u26c5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T08:50:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20354338074",
+    "moving_time": 799.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-27T17:53:17Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
