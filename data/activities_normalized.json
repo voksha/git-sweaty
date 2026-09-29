@@ -38810,7 +38810,7 @@
     "elevation_gain": 90.0,
     "id": "20349768429",
     "moving_time": 10750.0,
-    "name": "Sub-fucking three Berlin, It had to be done. \ud83e\udd1f\ud83c\udffc \u26c5",
+    "name": "BMW Berlin Marathon 2026 \ud83e\udd1f\ud83c\udffc \u26c5",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-09-27T08:50:39Z",
@@ -38866,6 +38866,19 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-09-28T15:34:39Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 1032.0,
+    "elevation_gain": 9.0,
+    "id": "20381732575",
+    "moving_time": 1218.0,
+    "name": "Isemarkt Walk \ud83d\udc90 \ud83e\udd68 \ud83e\udd54 \ud83e\udd5a \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-29T11:53:36Z",
     "type": "Walk",
     "year": 2026
   }
