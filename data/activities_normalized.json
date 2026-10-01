@@ -38771,7 +38771,7 @@
     "elevation_gain": 13.0,
     "id": "20336028086",
     "moving_time": 1708.0,
-    "name": "Lunch Walk \u2600\ufe0f",
+    "name": "Berlin Marathon Expo Day 3 \u2600\ufe0f",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-09-26T11:21:03Z",
@@ -38888,10 +38888,23 @@
     "elevation_gain": 0.0,
     "id": "20397040211",
     "moving_time": 3625.0,
-    "name": "Evening Workout",
+    "name": "Mobility & Flexibility \ud83d\udcff",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-09-30T19:28:16Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20411464462",
+    "moving_time": 1801.0,
+    "name": "Night Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-01T21:07:14Z",
     "type": "Workout",
     "year": 2026
   }
