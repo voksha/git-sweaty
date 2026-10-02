@@ -38907,5 +38907,44 @@
     "start_date_local": "2026-10-01T21:07:14Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 1049.7,
+    "elevation_gain": 19.0,
+    "id": "20417325848",
+    "moving_time": 993.0,
+    "name": "Morning Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-02T10:43:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 437.0,
+    "elevation_gain": 9.0,
+    "id": "20418264851",
+    "moving_time": 378.0,
+    "name": "Lunch Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-02T11:45:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 6457.0,
+    "elevation_gain": 236.0,
+    "id": "20421514082",
+    "moving_time": 2603.0,
+    "name": "Back to Trail Running \ud83d\ude42\u200d\u2194\ufe0f \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-02T16:54:27Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
