@@ -38972,5 +38972,44 @@
     "start_date_local": "2026-10-03T09:45:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20441254655",
+    "moving_time": 2794.0,
+    "name": "Dumbbell Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-03T19:36:23Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 13073.0,
+    "elevation_gain": 103.0,
+    "id": "20447521029",
+    "moving_time": 4082.0,
+    "name": "Fartlek to Bevaix \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T13:47:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 1622.0,
+    "elevation_gain": 124.0,
+    "id": "20448430707",
+    "moving_time": 1475.0,
+    "name": "Afternoon Walk \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-04T15:33:50Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
