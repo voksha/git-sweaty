@@ -39011,5 +39011,31 @@
     "start_date_local": "2026-10-04T15:33:50Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 2455.0,
+    "elevation_gain": 80.0,
+    "id": "20458459988",
+    "moving_time": 2137.0,
+    "name": "Groceries ALDI & coop \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-05T11:53:06Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20463623678",
+    "moving_time": 8321.0,
+    "name": "Mountain Running Routine \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-05T17:32:16Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
