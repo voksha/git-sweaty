@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:49:47.439171+00:00",
+  "generated_at": "2026-10-06T19:59:03.837147+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -19408,6 +19408,15 @@
           "distance": 5033.0,
           "elevation_gain": 175.0,
           "moving_time": 3895.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20476514570"
+          ],
+          "count": 1,
+          "distance": 12106.7,
+          "elevation_gain": 121.0,
+          "moving_time": 9265.0
         }
       },
       "Padel": {
@@ -22486,6 +22495,15 @@
           "distance": 2455.0,
           "elevation_gain": 80.0,
           "moving_time": 2137.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20473603027"
+          ],
+          "count": 1,
+          "distance": 333.0,
+          "elevation_gain": 43.0,
+          "moving_time": 266.0
         }
       },
       "WeightTraining": {
