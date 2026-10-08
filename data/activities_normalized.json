@@ -39063,5 +39063,31 @@
     "start_date_local": "2026-10-06T15:05:16Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20494452601",
+    "moving_time": 1885.0,
+    "name": "Stretching & Flexibility \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-07T22:32:56Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20505323625",
+    "moving_time": 7335.0,
+    "name": "Core Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-08T17:17:54Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
