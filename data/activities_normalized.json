@@ -39089,5 +39089,18 @@
     "start_date_local": "2026-10-08T17:17:54Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 12092.6,
+    "elevation_gain": 261.0,
+    "id": "20517874278",
+    "moving_time": 9221.0,
+    "name": "Chamonix et Petit Balcon Sud Loop \u26f0\ufe0f \u2601\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-09T14:54:37Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
