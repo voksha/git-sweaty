@@ -39102,5 +39102,18 @@
     "start_date_local": "2026-10-09T14:54:37Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 1128.0,
+    "elevation_gain": 16.0,
+    "id": "20530985516",
+    "moving_time": 1137.0,
+    "name": "3-l\u00e4nder-marathon BIB pickup \ud83c\udfab \ud83c\udf27",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-10T17:25:53Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
