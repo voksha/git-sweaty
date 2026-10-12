@@ -39167,5 +39167,31 @@
     "start_date_local": "2026-10-11T14:59:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 10147.0,
+    "elevation_gain": 38.0,
+    "id": "20551754825",
+    "moving_time": 5114.0,
+    "name": "Recovery to Englischer Garten \ud83c\udf33 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-12T10:50:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 1149.9,
+    "elevation_gain": 8.0,
+    "id": "20553014110",
+    "moving_time": 634.0,
+    "name": "Walk to Marienplatz \ud83c\udf4e \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-12T13:44:23Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
