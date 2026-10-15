@@ -39200,7 +39200,7 @@
     "elevation_gain": 0.0,
     "id": "20574569311",
     "moving_time": 1971.0,
-    "name": "Evening Workout",
+    "name": "Seat Yoga \ud83d\udcba",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-10-13T20:30:11Z",
@@ -39213,11 +39213,24 @@
     "elevation_gain": 0.0,
     "id": "20586052286",
     "moving_time": 4320.0,
-    "name": "Afternoon Workout",
+    "name": "Storage Work \ud83d\udce6",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-10-14T13:16:01Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 5223.0,
+    "elevation_gain": 31.0,
+    "id": "20594102816",
+    "moving_time": 1928.0,
+    "name": "SABR X On Running \ud83e\udd6f\ud83d\udc1d\ud83c\udf75 \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T06:44:22Z",
+    "type": "Run",
     "year": 2026
   }
 ]
