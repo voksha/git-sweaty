@@ -39258,5 +39258,31 @@
     "start_date_local": "2026-10-15T18:10:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 3401.0,
+    "elevation_gain": 24.0,
+    "id": "20614814481",
+    "moving_time": 2477.0,
+    "name": "Toronto Waterfront Marathon Expo \ud83d\udecd\ufe0f \u2601\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-16T13:55:56Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 5293.0,
+    "elevation_gain": 17.0,
+    "id": "20621838632",
+    "moving_time": 2012.0,
+    "name": "BlackToe Shakeout \ud83e\udd6f\u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T08:58:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
