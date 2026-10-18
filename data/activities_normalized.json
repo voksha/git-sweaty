@@ -39278,10 +39278,23 @@
     "elevation_gain": 17.0,
     "id": "20621838632",
     "moving_time": 2012.0,
-    "name": "BlackToe Shakeout \ud83e\udd6f\u2600\ufe0f",
+    "name": "BlackToe Shakeout \ud83c\udf4c\ud83e\udd6f\u2600\ufe0f",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-17T08:58:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 13492.5,
+    "elevation_gain": 54.0,
+    "id": "20637591481",
+    "moving_time": 3920.0,
+    "name": "Toronto Marathon X BlackToe Cheer Squad \ud83c\udf19",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T07:17:26Z",
     "type": "Run",
     "year": 2026
   }
