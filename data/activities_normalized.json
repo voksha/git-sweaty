@@ -39291,11 +39291,24 @@
     "elevation_gain": 54.0,
     "id": "20637591481",
     "moving_time": 3920.0,
-    "name": "Toronto Marathon X BlackToe Cheer Squad \ud83c\udf19",
+    "name": "Toronto Marathon X BlackToe Cheer Squad \ud83d\udce3 \ud83c\udf19",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-18T07:17:26Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 5400.6,
+    "elevation_gain": 19.0,
+    "id": "20639576991",
+    "moving_time": 4335.0,
+    "name": "Post Waterfront Recovery Walk \ud83c\udf54\ud83c\udf68\u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-18T12:24:57Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
