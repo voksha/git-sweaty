@@ -39310,5 +39310,18 @@
     "start_date_local": "2026-10-18T12:24:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 5059.1,
+    "elevation_gain": 24.0,
+    "id": "20654032323",
+    "moving_time": 1753.0,
+    "name": "lulu\ud83c\udf4b \ud83c\udf39 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-19T18:20:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
