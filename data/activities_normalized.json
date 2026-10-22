@@ -39323,5 +39323,31 @@
     "start_date_local": "2026-10-19T18:20:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20668685258",
+    "moving_time": 1772.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-20T20:00:33Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 5359.0,
+    "elevation_gain": 30.0,
+    "id": "20680542000",
+    "moving_time": 1482.0,
+    "name": "Brookline to Cambridge \ud83c\udf6b \u2601\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-21T17:14:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
