@@ -39330,7 +39330,7 @@
     "elevation_gain": 0.0,
     "id": "20668685258",
     "moving_time": 1772.0,
-    "name": "Evening Workout",
+    "name": "FlixBus Seat Stretches \ud83d\udcba",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-10-20T20:00:33Z",
@@ -39348,6 +39348,32 @@
     "raw_type": "Run",
     "start_date_local": "2026-10-21T17:14:59Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 3394.0,
+    "elevation_gain": 37.0,
+    "id": "20693659926",
+    "moving_time": 3221.0,
+    "name": "Beacon Hill Walk \ud83c\udf83\ud83d\udd77\ufe0f \u26c5",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-22T16:39:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 5024.4,
+    "elevation_gain": 67.0,
+    "id": "20703327175",
+    "moving_time": 3764.0,
+    "name": "Brookline Reservoir Walk \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-23T12:32:48Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
