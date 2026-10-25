@@ -39388,5 +39388,31 @@
     "start_date_local": "2026-10-23T16:49:39Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 7112.5,
+    "elevation_gain": 29.0,
+    "id": "20718623877",
+    "moving_time": 5587.0,
+    "name": "Brookline to Harvard Yard \ud83c\udf93",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-24T09:27:19Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 6247.8,
+    "elevation_gain": 45.0,
+    "id": "20718623905",
+    "moving_time": 5047.0,
+    "name": "Little Italy to Acorn St and Boston Public Garden \ud83c\uddee\ud83c\uddf9\ud83e\udd6a\ud83d\udc7b",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-24T13:42:25Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
