@@ -39414,5 +39414,18 @@
     "start_date_local": "2026-10-24T13:42:25Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 13641.0,
+    "elevation_gain": 63.0,
+    "id": "20732634630",
+    "moving_time": 9785.0,
+    "name": "Fifth Ave, Central Park & Times Square \ud83d\uddfd",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-25T14:50:01Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
