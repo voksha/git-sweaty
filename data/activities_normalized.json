@@ -39427,5 +39427,18 @@
     "start_date_local": "2026-10-25T14:50:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 22550.0,
+    "elevation_gain": 131.0,
+    "id": "20744480519",
+    "moving_time": 17112.0,
+    "name": "SoHo, Chinatown, Brooklyn to Manhattan & West Side \ud83d\uddfd",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-26T11:01:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
