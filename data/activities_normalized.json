@@ -39440,5 +39440,18 @@
     "start_date_local": "2026-10-26T11:01:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 19574.5,
+    "elevation_gain": 114.0,
+    "id": "20759657000",
+    "moving_time": 14769.0,
+    "name": "More New York \ud83d\uddfd",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-27T09:50:02Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
