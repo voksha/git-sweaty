@@ -39518,5 +39518,18 @@
     "start_date_local": "2026-10-29T16:52:55Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20798701674",
+    "moving_time": 1912.0,
+    "name": "Night Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-30T21:02:50Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
