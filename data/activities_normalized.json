@@ -39531,5 +39531,44 @@
     "start_date_local": "2026-10-30T21:02:50Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 1306.8,
+    "elevation_gain": 10.0,
+    "id": "20810254826",
+    "moving_time": 1022.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T12:37:18Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 1182.0,
+    "elevation_gain": 7.0,
+    "id": "20810714576",
+    "moving_time": 891.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T16:41:50Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 2038.0,
+    "elevation_gain": 12.0,
+    "id": "20811264681",
+    "moving_time": 1529.0,
+    "name": "Jule\u2019s Sa-Hali Walk \ud83c\udfeb",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T18:01:18Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
