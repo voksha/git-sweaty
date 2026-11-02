@@ -39570,5 +39570,31 @@
     "start_date_local": "2026-10-31T18:01:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 10790.5,
+    "elevation_gain": 50.0,
+    "id": "20824295881",
+    "moving_time": 3323.0,
+    "name": "V for Vancouver \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T16:14:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 4098.0,
+    "elevation_gain": 22.0,
+    "id": "20824743856",
+    "moving_time": 3007.0,
+    "name": "Vancouver Walk\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-01T18:06:53Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
