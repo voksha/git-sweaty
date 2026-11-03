@@ -39596,5 +39596,31 @@
     "start_date_local": "2026-11-01T18:06:53Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20838268068",
+    "moving_time": 1814.0,
+    "name": "Seat Yoga \ud83d\udcba",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-02T17:22:42Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20847866198",
+    "moving_time": 2007.0,
+    "name": "Mobility & Flexibility \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-03T20:47:11Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
