@@ -21335,6 +21335,27 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 20,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 21,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41260,6 +41281,15 @@
           "distance": 21119.0,
           "elevation_gain": 0.0,
           "moving_time": 3674.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20861352336"
+          ],
+          "count": 1,
+          "distance": 6849.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2402.0
         }
       },
       "Rowing": {
@@ -44076,6 +44106,15 @@
           "distance": 4098.0,
           "elevation_gain": 22.0,
           "moving_time": 3007.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20860790352"
+          ],
+          "count": 1,
+          "distance": 1646.3,
+          "elevation_gain": 4.0,
+          "moving_time": 1238.0
         }
       },
       "WeightTraining": {
@@ -45783,6 +45822,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2007.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20861624214"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1275.0
         }
       },
       "Yoga": {
@@ -45897,7 +45945,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T20:47:00.473758+00:00",
+  "generated_at": "2026-11-04T21:03:49.084066+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
