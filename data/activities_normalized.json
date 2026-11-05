@@ -39661,5 +39661,31 @@
     "start_date_local": "2026-11-04T21:10:08Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20871540231",
+    "moving_time": 1862.0,
+    "name": "Stretching & Flexibility \ud83e\udea2",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-05T16:32:09Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 8832.6,
+    "elevation_gain": 22.0,
+    "id": "20874071010",
+    "moving_time": 3353.0,
+    "name": "OACE Hamburg Run Club \ud83d\ude42\u200d\u2194\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-05T18:43:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
