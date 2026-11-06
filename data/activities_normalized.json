@@ -39687,5 +39687,44 @@
     "start_date_local": "2026-11-05T18:43:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 3514.0,
+    "elevation_gain": 14.0,
+    "id": "20880566444",
+    "moving_time": 945.0,
+    "name": "Ride to Decathlon \ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-06T10:18:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 12358.5,
+    "elevation_gain": 55.0,
+    "id": "20882506183",
+    "moving_time": 2916.0,
+    "name": "Isemarkt & Chores around Hamburg \ud83e\udd76",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-06T12:17:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 1688.3,
+    "elevation_gain": 8.0,
+    "id": "20886615216",
+    "moving_time": 1087.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-06T21:01:06Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
