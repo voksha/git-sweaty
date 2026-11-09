@@ -39778,5 +39778,83 @@
     "start_date_local": "2026-11-07T09:41:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 4211.3,
+    "elevation_gain": 16.0,
+    "id": "20912980127",
+    "moving_time": 2936.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-08T15:43:45Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20913259371",
+    "moving_time": 1805.0,
+    "name": "Dumbbells Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-08T20:25:51Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 6956.0,
+    "elevation_gain": 0.0,
+    "id": "20913571102",
+    "moving_time": 1251.0,
+    "name": "bikeERG for them quads\ud83e\uddb5\ud83c\udffd",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-08T21:14:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20919850245",
+    "moving_time": 1970.0,
+    "name": "Core Workout at ESN \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-09T13:32:49Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 11743.0,
+    "elevation_gain": 0.0,
+    "id": "20920191147",
+    "moving_time": 1802.0,
+    "name": "bikeERG \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-09T14:07:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20920340723",
+    "moving_time": 788.0,
+    "name": "HYROX Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-09T14:39:44Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
