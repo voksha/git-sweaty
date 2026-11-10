@@ -39856,5 +39856,18 @@
     "start_date_local": "2026-11-09T14:39:44Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20931727407",
+    "moving_time": 1926.0,
+    "name": "Seat Yoga \ud83d\udcba",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-10T18:02:00Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
