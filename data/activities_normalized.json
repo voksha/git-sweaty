@@ -39869,5 +39869,18 @@
     "start_date_local": "2026-11-10T18:02:00Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 10216.9,
+    "elevation_gain": 47.0,
+    "id": "20939851505",
+    "moving_time": 3487.0,
+    "name": "Flowerboy\ud83c\udf3a",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T06:04:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
