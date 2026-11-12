@@ -21475,6 +21475,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42987,6 +42994,15 @@
           "distance": 10216.9,
           "elevation_gain": 47.0,
           "moving_time": 3487.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20953660513"
+          ],
+          "count": 1,
+          "distance": 10129.9,
+          "elevation_gain": 43.0,
+          "moving_time": 2958.0
         }
       },
       "StairStepper": {
@@ -46185,7 +46201,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:44:38.510471+00:00",
+  "generated_at": "2026-11-12T21:43:49.724786+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",

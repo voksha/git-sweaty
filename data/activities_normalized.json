@@ -39882,5 +39882,18 @@
     "start_date_local": "2026-11-11T06:04:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 10129.9,
+    "elevation_gain": 43.0,
+    "id": "20953660513",
+    "moving_time": 2958.0,
+    "name": "Continuum Threshold \ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udfc3\ud83c\udffc\ud83c\udfc3\ud83c\udffb\u200d\u2640\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-12T06:39:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
