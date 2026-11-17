@@ -39941,7 +39941,7 @@
     "elevation_gain": 0.0,
     "id": "21008499201",
     "moving_time": 2150.0,
-    "name": "Evening Workout",
+    "name": "Stretching & Flexibility \ud83d\udcff",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-11-16T20:38:08Z",
@@ -39954,11 +39954,37 @@
     "elevation_gain": 2.0,
     "id": "21015139855",
     "moving_time": 1467.0,
-    "name": "Morning Run",
+    "name": "CHASE 32 \ud83d\udd01",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-11-17T06:47:40Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21017137380",
+    "moving_time": 3070.0,
+    "name": "Upper Body & Core \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-17T11:29:30Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 11283.4,
+    "elevation_gain": 0.0,
+    "id": "21017137385",
+    "moving_time": 1853.0,
+    "name": "bikeERG \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T12:25:31Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
