@@ -40012,5 +40012,18 @@
     "start_date_local": "2026-11-18T08:56:00Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21042061706",
+    "moving_time": 3896.0,
+    "name": "Stretching & Mobility \ud83d\udcff",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-19T09:01:25Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
