@@ -40025,5 +40025,70 @@
     "start_date_local": "2026-11-19T09:01:25Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 6136.0,
+    "elevation_gain": 34.0,
+    "id": "21052480461",
+    "moving_time": 2408.0,
+    "name": "Rise Rain Bali X The Goat Father \ud83d\udc10",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-20T06:10:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 21144.0,
+    "elevation_gain": 0.0,
+    "id": "21053329259",
+    "moving_time": 3686.0,
+    "name": "bikeERG \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-20T07:33:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 2282.3,
+    "elevation_gain": 27.0,
+    "id": "21055697225",
+    "moving_time": 1775.0,
+    "name": "Ubud Running Festival BIB Pickup \u2705",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-20T15:53:10Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 3228.7,
+    "elevation_gain": 25.0,
+    "id": "21055930148",
+    "moving_time": 1208.0,
+    "name": "Ubud Tiki Taka\ud83d\udc12\ud83c\udf33",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-20T16:45:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 728.0,
+    "elevation_gain": 7.0,
+    "id": "21062848089",
+    "moving_time": 323.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-21T04:43:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
