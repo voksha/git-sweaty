@@ -40090,5 +40090,57 @@
     "start_date_local": "2026-11-21T04:43:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 23827.0,
+    "elevation_gain": 354.0,
+    "id": "21064071256",
+    "moving_time": 8058.0,
+    "name": "My first \u201ctrail\u201d race! \ud83d\ude42\u200d\u2194\ufe0f \ud83c\udf27",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-11-21T04:59:53Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21064440983",
+    "moving_time": 1867.0,
+    "name": "Yoga Session \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-21T07:32:00Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21066040346",
+    "moving_time": 1967.0,
+    "name": "Ecstatic Dancing at the Eden Bali",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-21T12:33:39Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 2905.8,
+    "elevation_gain": 31.0,
+    "id": "21068694942",
+    "moving_time": 2982.0,
+    "name": "Ubud Walk \ud83c\udffa",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-21T16:15:21Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
