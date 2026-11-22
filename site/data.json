@@ -21615,6 +21615,34 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 5,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 7,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 11,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43209,6 +43237,16 @@
           "distance": 728.0,
           "elevation_gain": 7.0,
           "moving_time": 323.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21075972463",
+            "21076515616"
+          ],
+          "count": 2,
+          "distance": 2185.3,
+          "elevation_gain": 16.0,
+          "moving_time": 864.0
         }
       },
       "StairStepper": {
@@ -44567,6 +44605,15 @@
           "distance": 2905.8,
           "elevation_gain": 31.0,
           "moving_time": 2982.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21078733885"
+          ],
+          "count": 1,
+          "distance": 3123.5,
+          "elevation_gain": 29.0,
+          "moving_time": 2546.0
         }
       },
       "WeightTraining": {
@@ -46374,6 +46421,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1967.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21078733887"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5712.0
         }
       },
       "Yoga": {
@@ -46497,7 +46553,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:46:34.796396+00:00",
+  "generated_at": "2026-11-22T20:56:02.253142+00:00",
   "other_bucket": "OtherSports",
   "repo": "voksha/git-sweaty",
   "source": "strava",
