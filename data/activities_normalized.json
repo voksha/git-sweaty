@@ -40136,7 +40136,7 @@
     "elevation_gain": 31.0,
     "id": "21068694942",
     "moving_time": 2982.0,
-    "name": "Ubud Walk \ud83c\udffa",
+    "name": "Ubud Walk\ud83c\udffa",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-11-21T16:15:21Z",
@@ -40193,6 +40193,32 @@
     "raw_type": "Workout",
     "start_date_local": "2026-11-22T11:15:10Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21093137013",
+    "moving_time": 1261.0,
+    "name": "Dumbbell Workout \ud83d\udcaa\ud83c\udffc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-23T18:40:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 10304.3,
+    "elevation_gain": 0.0,
+    "id": "21101487303",
+    "moving_time": 2880.0,
+    "name": "CHASE 33 \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-24T06:33:50Z",
+    "type": "Run",
     "year": 2026
   }
 ]
