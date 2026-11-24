@@ -40220,5 +40220,44 @@
     "start_date_local": "2026-11-24T06:33:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 10726.0,
+    "elevation_gain": 0.0,
+    "id": "21102543795",
+    "moving_time": 1808.0,
+    "name": "bikeERG at Nirvana \ud83e\udeb7",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-24T10:20:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21105936042",
+    "moving_time": 3675.0,
+    "name": "Yin & Sound Bath \ud83e\uddd8\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-24T18:32:42Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 10233.0,
+    "elevation_gain": 42.0,
+    "id": "21113714750",
+    "moving_time": 3938.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-25T06:09:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
