@@ -40298,5 +40298,57 @@
     "start_date_local": "2026-11-26T06:12:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 1435.8,
+    "elevation_gain": 13.0,
+    "id": "21126361930",
+    "moving_time": 820.0,
+    "name": "HYROX Base Builder by Coach Tom Gregory \ud83d\udc4a\ud83c\udffc",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-26T07:36:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 8232.0,
+    "elevation_gain": 0.0,
+    "id": "21126560986",
+    "moving_time": 1802.0,
+    "name": "bikeERG \ud83d\udeb2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-26T08:38:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21127517557",
+    "moving_time": 2736.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-26T12:16:15Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21129430578",
+    "moving_time": 3627.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-26T17:16:26Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
