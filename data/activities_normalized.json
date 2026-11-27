@@ -40350,5 +40350,31 @@
     "start_date_local": "2026-11-26T17:16:26Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 815.0,
+    "elevation_gain": 124.0,
+    "id": "21141482149",
+    "moving_time": 836.0,
+    "name": "RITE Gym Beach Bootcamp \ud83c\udfd6\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-27T17:08:43Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21141482240",
+    "moving_time": 1210.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-27T16:45:43Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
